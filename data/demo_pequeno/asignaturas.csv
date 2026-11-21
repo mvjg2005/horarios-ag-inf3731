@@ -1,0 +1,4 @@
+clave,codigo,nombre,semestre,horas_teoria,horas_laboratorio,horas_auxiliatura
+BD,SIM-101,Base de Datos (sim.),,1.5,1.5,0.0
+RED,SIM-102,Redes (sim.),,1.5,1.5,1.5
+PRG,SIM-103,Programación (sim.),,1.5,0.0,1.5

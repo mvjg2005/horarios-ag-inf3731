@@ -1,0 +1,370 @@
+id,asignatura,tipo,paralelo,dia,inicio,fin,responsable,ambiente,duracion_requerida_min,fija,obligatoria,estado,reemplaza,origen,dias_permitidos,tipo_ambiente,observacion
+INF1210-A-T1,INF 1210,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+INF1210-A-T2,INF 1210,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+INF1210-A-AUX1,INF 1210,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF1210-B-T1,INF 1210,teoria,B,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+INF1210-B-T2,INF 1210,teoria,B,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+INF1210-B-AUX1,INF 1210,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF1210-C-T1,INF 1210,teoria,C,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+INF1210-C-T2,INF 1210,teoria,C,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+INF1210-C-AUX1,INF 1210,auxiliatura,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF1210-CH-T1,INF 1210,teoria,CH,Lunes,07:00,08:30,DOC-36,,,no,si,vigente,,oficial,,,Sede Challapata
+INF1210-CH-T2,INF 1210,teoria,CH,Lunes,07:00,08:30,DOC-36,,,no,si,vigente,,oficial,,,Sede Challapata
+INF1210-CH-AUX1,INF 1210,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2310-A-T1,INF 2310,teoria,A,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+INF2310-A-T2,INF 2310,teoria,A,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+INF2310-A-AUX1,INF 2310,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2310-A-LAB1,INF 2310,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2410-A-T1,INF 2410,teoria,A,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+INF2410-A-T2,INF 2410,teoria,A,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+INF2410-A-AUX1,INF 2410,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2410-A-LAB1,INF 2410,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2410-CH-T1,INF 2410,teoria,CH,Lunes,07:00,08:30,DOC-40,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2410-CH-T2,INF 2410,teoria,CH,Lunes,07:00,08:30,DOC-40,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2410-CH-AUX1,INF 2410,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2410-CH-LAB1,INF 2410,laboratorio,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2430-A-T1,INF 2430,teoria,A,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+INF2430-A-T2,INF 2430,teoria,A,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+INF2430-A-AUX1,INF 2430,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2430-A-LAB1,INF 2430,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2430-CH-T1,INF 2430,teoria,CH,Lunes,07:00,08:30,DOC-33,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2430-CH-T2,INF 2430,teoria,CH,Lunes,07:00,08:30,DOC-33,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2430-CH-AUX1,INF 2430,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2430-CH-LAB1,INF 2430,laboratorio,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF2610-A-T1,INF 2610,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+INF2610-A-T2,INF 2610,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+INF2610-A-AUX1,INF 2610,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF2710-A-T1,INF 2710,teoria,A,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+INF2710-A-T2,INF 2710,teoria,A,Lunes,07:00,07:45,DOC-09,,,no,si,vigente,,oficial,,,
+INF2710-A-AUX1,INF 2710,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2710-A-LAB1,INF 2710,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2720-A-T1,INF 2720,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+INF2720-A-T2,INF 2720,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+INF2720-A-AUX1,INF 2720,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF2720-A-LAB1,INF 2720,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3420-A-T1,INF 3420,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3420-A-T2,INF 3420,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3420-A-AUX1,INF 3420,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3420-A-LAB1,INF 3420,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3510-A-T1,INF 3510,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3510-A-T2,INF 3510,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3510-A-AUX1,INF 3510,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3510-A-LAB1,INF 3510,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3510-B-T1,INF 3510,teoria,B,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3510-B-T2,INF 3510,teoria,B,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3510-B-AUX1,INF 3510,auxiliatura,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3510-B-LAB1,INF 3510,laboratorio,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3510-CH-T1,INF 3510,teoria,CH,Lunes,07:00,08:30,DOC-27,,,no,si,vigente,,oficial,,,Sede Challapata
+INF3510-CH-T2,INF 3510,teoria,CH,Lunes,07:00,08:30,DOC-27,,,no,si,vigente,,oficial,,,Sede Challapata
+INF3510-CH-AUX1,INF 3510,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF3510-CH-LAB1,INF 3510,laboratorio,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+INF3520-A-T1,INF 3520,teoria,A,Lunes,07:00,08:30,DOC-14,,,no,si,vigente,,oficial,,,
+INF3520-A-T2,INF 3520,teoria,A,Lunes,07:00,08:30,DOC-14,,,no,si,vigente,,oficial,,,
+INF3520-A-AUX1,INF 3520,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3520-A-LAB1,INF 3520,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3530-A-T1,INF 3530,teoria,A,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+INF3530-A-T2,INF 3530,teoria,A,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+INF3530-A-AUX1,INF 3530,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3530-A-LAB1,INF 3530,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3620-A-T1,INF 3620,teoria,A,Lunes,07:00,08:30,DOC-22,,,no,si,vigente,,oficial,,,
+INF3620-A-T2,INF 3620,teoria,A,Lunes,07:00,08:30,DOC-22,,,no,si,vigente,,oficial,,,
+INF3620-A-AUX1,INF 3620,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3620-A-LAB1,INF 3620,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3631-A-T1,INF 3631,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3631-A-T2,INF 3631,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3631-A-AUX1,INF 3631,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3631-A-LAB1,INF 3631,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3632-A-T1,INF 3632,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3632-A-T2,INF 3632,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3632-A-AUX1,INF 3632,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3641-A-T1,INF 3641,teoria,A,Lunes,07:00,08:30,DOC-22,,,no,si,vigente,,oficial,,,
+INF3641-A-T2,INF 3641,teoria,A,Lunes,07:00,08:30,DOC-22,,,no,si,vigente,,oficial,,,
+INF3641-A-AUX1,INF 3641,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3641-A-LAB1,INF 3641,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3642-A-T1,INF 3642,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3642-A-T2,INF 3642,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3642-A-AUX1,INF 3642,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3731-A-T1,INF 3731,teoria,A,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+INF3731-A-T2,INF 3731,teoria,A,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+INF3731-A-AUX1,INF 3731,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3731-A-LAB1,INF 3731,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3732-A-T1,INF 3732,teoria,A,Lunes,07:00,08:30,DOC-13,,,no,si,vigente,,oficial,,,
+INF3732-A-AUX1,INF 3732,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3732-A-LAB1,INF 3732,laboratorio,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3741-A-T1,INF 3741,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3741-A-T2,INF 3741,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3741-A-AUX1,INF 3741,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3741-A-LAB1,INF 3741,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3742-A-T1,INF 3742,teoria,A,Lunes,07:00,08:30,DOC-03,,,no,si,vigente,,oficial,,,
+INF3742-A-T2,INF 3742,teoria,A,Lunes,07:00,08:30,DOC-03,,,no,si,vigente,,oficial,,,
+INF3742-A-AUX1,INF 3742,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3751-A-T1,INF 3751,teoria,A,Lunes,07:00,08:30,DOC-11,,,no,si,vigente,,oficial,,,
+INF3751-A-T2,INF 3751,teoria,A,Lunes,07:00,08:30,DOC-11,,,no,si,vigente,,oficial,,,
+INF3751-A-AUX1,INF 3751,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3752-A-T1,INF 3752,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3752-A-T2,INF 3752,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+INF3752-A-AUX1,INF 3752,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3772-A-T1,INF 3772,teoria,A,Lunes,07:00,08:30,DOC-21,,,no,si,vigente,,oficial,,,
+INF3772-A-T2,INF 3772,teoria,A,Lunes,07:00,08:30,DOC-21,,,no,si,vigente,,oficial,,,
+INF3772-A-AUX1,INF 3772,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3781-A-T1,INF 3781,teoria,A,Lunes,07:00,08:30,DOC-20,,,no,si,vigente,,oficial,,,
+INF3781-A-T2,INF 3781,teoria,A,Lunes,07:00,08:30,DOC-20,,,no,si,vigente,,oficial,,,
+INF3781-A-AUX1,INF 3781,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+INF3812-A-T1,INF 3812,teoria,A,Lunes,07:00,08:30,DOC-13,,,no,si,vigente,,oficial,,,
+INF3812-A-T2,INF 3812,teoria,A,Lunes,07:00,08:30,DOC-13,,,no,si,vigente,,oficial,,,
+INF3812-A-AUX1,INF 3812,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3812-A-LAB1,INF 3812,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3822-A-T1,INF 3822,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3822-A-T2,INF 3822,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+INF3822-A-AUX1,INF 3822,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3822-A-LAB1,INF 3822,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3911-A-T1,INF 3911,teoria,A,Lunes,07:00,08:30,DOC-29,,,no,si,vigente,,oficial,,,
+INF3911-A-T2,INF 3911,teoria,A,Lunes,07:00,08:30,DOC-29,,,no,si,vigente,,oficial,,,
+INF3911-A-AUX1,INF 3911,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3911-A-LAB1,INF 3911,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3920-A-T1,INF 3920,teoria,A,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+INF3920-A-T2,INF 3920,teoria,A,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+INF3920-A-AUX1,INF 3920,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+INF3920-A-LAB1,INF 3920,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS1110-A-T1,SIS 1110,teoria,A,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+SIS1110-A-T2,SIS 1110,teoria,A,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+SIS1110-A-AUX1,SIS 1110,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS1110-A-LAB1,SIS 1110,laboratorio,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS1110-B-T1,SIS 1110,teoria,B,Lunes,07:00,08:30,DOC-17,,,no,si,vigente,,oficial,,,
+SIS1110-B-T2,SIS 1110,teoria,B,Lunes,07:00,08:30,DOC-17,,,no,si,vigente,,oficial,,,
+SIS1110-B-AUX1,SIS 1110,auxiliatura,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS1110-B-LAB1,SIS 1110,laboratorio,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS1110-C-T1,SIS 1110,teoria,C,Lunes,07:00,08:30,DOC-36,,,no,si,vigente,,oficial,,,
+SIS1110-C-T2,SIS 1110,teoria,C,Lunes,07:00,08:30,DOC-36,,,no,si,vigente,,oficial,,,
+SIS1110-C-AUX1,SIS 1110,auxiliatura,C,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS1110-C-LAB1,SIS 1110,laboratorio,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS1110-CH-T1,SIS 1110,teoria,CH,Lunes,07:00,08:30,DOC-36,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS1110-CH-T2,SIS 1110,teoria,CH,Lunes,07:00,08:30,DOC-36,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS1110-CH-AUX1,SIS 1110,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS1110-CH-LAB1,SIS 1110,laboratorio,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS1110-D-T1,SIS 1110,teoria,D,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS1110-D-T2,SIS 1110,teoria,D,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS1110-D-AUX1,SIS 1110,auxiliatura,D,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS1110-D-LAB1,SIS 1110,laboratorio,D,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2210-A-T1,SIS 2210,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2210-A-T2,SIS 2210,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2210-A-AUX1,SIS 2210,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2210-A-LAB1,SIS 2210,laboratorio,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2210-B-T1,SIS 2210,teoria,B,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2210-B-T2,SIS 2210,teoria,B,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2210-B-AUX1,SIS 2210,auxiliatura,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2210-B-LAB1,SIS 2210,laboratorio,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2210-C-T1,SIS 2210,teoria,C,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2210-C-T2,SIS 2210,teoria,C,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2210-C-AUX1,SIS 2210,auxiliatura,C,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2210-C-LAB1,SIS 2210,laboratorio,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2210-CH-T1,SIS 2210,teoria,CH,Lunes,07:00,08:30,DOC-38,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2210-CH-T2,SIS 2210,teoria,CH,Lunes,07:00,08:30,DOC-38,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2210-CH-AUX1,SIS 2210,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2210-CH-LAB1,SIS 2210,laboratorio,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2220-A-T1,SIS 2220,teoria,A,Lunes,07:00,08:30,DOC-23,,,no,si,vigente,,oficial,,,
+SIS2220-A-T2,SIS 2220,teoria,A,Lunes,07:00,08:30,DOC-23,,,no,si,vigente,,oficial,,,
+SIS2220-A-AUX1,SIS 2220,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2220-B-T1,SIS 2220,teoria,B,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS2220-B-T2,SIS 2220,teoria,B,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS2220-B-AUX1,SIS 2220,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2220-C-T1,SIS 2220,teoria,C,Lunes,07:00,08:30,DOC-19,,,no,si,vigente,,oficial,,,
+SIS2220-C-T2,SIS 2220,teoria,C,Lunes,07:00,08:30,DOC-19,,,no,si,vigente,,oficial,,,
+SIS2220-C-AUX1,SIS 2220,auxiliatura,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2220-CH-T1,SIS 2220,teoria,CH,Lunes,07:00,08:30,DOC-35,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2220-CH-T2,SIS 2220,teoria,CH,Lunes,07:00,08:30,DOC-35,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2220-CH-AUX1,SIS 2220,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2310-A-T1,SIS 2310,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2310-A-T2,SIS 2310,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2310-A-AUX1,SIS 2310,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2310-B-T1,SIS 2310,teoria,B,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+SIS2310-B-T2,SIS 2310,teoria,B,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+SIS2310-B-AUX1,SIS 2310,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2310-CH-T1,SIS 2310,teoria,CH,Lunes,07:00,08:30,DOC-38,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2310-CH-T2,SIS 2310,teoria,CH,Lunes,07:00,08:30,DOC-38,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2310-CH-AUX1,SIS 2310,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2320-A-T1,SIS 2320,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS2320-A-T2,SIS 2320,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS2320-A-AUX1,SIS 2320,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2320-B-T1,SIS 2320,teoria,B,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS2320-B-T2,SIS 2320,teoria,B,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS2320-B-AUX1,SIS 2320,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2320-CH-T1,SIS 2320,teoria,CH,Lunes,07:00,08:30,DOC-39,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2320-CH-T2,SIS 2320,teoria,CH,Lunes,07:00,08:30,DOC-39,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2320-CH-AUX1,SIS 2320,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2330-A-T1,SIS 2330,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2330-A-T2,SIS 2330,teoria,A,Lunes,07:00,08:30,DOC-04,,,no,si,vigente,,oficial,,,
+SIS2330-A-AUX1,SIS 2330,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2330-A-LAB1,SIS 2330,laboratorio,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2330-B-T1,SIS 2330,teoria,B,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS2330-B-T2,SIS 2330,teoria,B,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS2330-B-AUX1,SIS 2330,auxiliatura,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2330-B-LAB1,SIS 2330,laboratorio,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2330-C-T1,SIS 2330,teoria,C,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2330-C-T2,SIS 2330,teoria,C,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2330-C-AUX1,SIS 2330,auxiliatura,C,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2330-C-LAB1,SIS 2330,laboratorio,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2330-CH-T1,SIS 2330,teoria,CH,Lunes,07:00,08:30,DOC-34,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2330-CH-T2,SIS 2330,teoria,CH,Lunes,07:00,08:30,DOC-34,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2330-CH-AUX1,SIS 2330,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2330-CH-LAB1,SIS 2330,laboratorio,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2420-A-T1,SIS 2420,teoria,A,Lunes,07:00,08:30,DOC-25,,,no,si,vigente,,oficial,,,
+SIS2420-A-AUX1,SIS 2420,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2420-A-LAB1,SIS 2420,laboratorio,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2420-CH-T1,SIS 2420,teoria,CH,Lunes,07:00,08:30,DOC-38,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2420-CH-AUX1,SIS 2420,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2420-CH-LAB1,SIS 2420,laboratorio,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2430-A-T1,SIS 2430,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2430-A-T2,SIS 2430,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2430-A-AUX1,SIS 2430,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2430-A-LAB1,SIS 2430,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2430-B-T1,SIS 2430,teoria,B,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+SIS2430-B-T2,SIS 2430,teoria,B,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+SIS2430-B-AUX1,SIS 2430,auxiliatura,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2430-B-LAB1,SIS 2430,laboratorio,B,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2430-CH-T1,SIS 2430,teoria,CH,Lunes,07:00,08:30,DOC-40,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2430-CH-T2,SIS 2430,teoria,CH,Lunes,07:00,08:30,DOC-40,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2430-CH-AUX1,SIS 2430,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2430-CH-LAB1,SIS 2430,laboratorio,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2510-A-T1,SIS 2510,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+SIS2510-A-T2,SIS 2510,teoria,A,Lunes,07:00,08:30,DOC-28,,,no,si,vigente,,oficial,,,
+SIS2510-A-AUX1,SIS 2510,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2510-B-T1,SIS 2510,teoria,B,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+SIS2510-B-T2,SIS 2510,teoria,B,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+SIS2510-B-AUX1,SIS 2510,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2510-C-T1,SIS 2510,teoria,C,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+SIS2510-C-T2,SIS 2510,teoria,C,Lunes,07:00,08:30,DOC-24,,,no,si,vigente,,oficial,,,
+SIS2510-C-AUX1,SIS 2510,auxiliatura,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2510-CH-T1,SIS 2510,teoria,CH,Lunes,07:00,08:30,DOC-27,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2510-CH-T2,SIS 2510,teoria,CH,Lunes,07:00,08:30,DOC-27,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2510-CH-AUX1,SIS 2510,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2520-A-T1,SIS 2520,teoria,A,Lunes,07:00,08:30,DOC-15,,,no,si,vigente,,oficial,,,
+SIS2520-A-T2,SIS 2520,teoria,A,Lunes,07:00,08:30,DOC-15,,,no,si,vigente,,oficial,,,
+SIS2520-A-AUX1,SIS 2520,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2520-CH-T1,SIS 2520,teoria,CH,Lunes,07:00,08:30,DOC-37,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2520-CH-T2,SIS 2520,teoria,CH,Lunes,07:00,08:30,DOC-37,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2520-CH-AUX1,SIS 2520,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2530-A-T1,SIS 2530,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS2530-A-T2,SIS 2530,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS2530-A-AUX1,SIS 2530,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2530-A-LAB1,SIS 2530,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS2530-CH-T1,SIS 2530,teoria,CH,Lunes,07:00,08:30,DOC-39,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2530-CH-T2,SIS 2530,teoria,CH,Lunes,07:00,08:30,DOC-39,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2530-CH-AUX1,SIS 2530,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2530-CH-LAB1,SIS 2530,laboratorio,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2610-A-T1,SIS 2610,teoria,A,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS2610-A-T2,SIS 2610,teoria,A,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS2610-A-AUX1,SIS 2610,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2610-B-T1,SIS 2610,teoria,B,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS2610-B-T2,SIS 2610,teoria,B,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS2610-B-AUX1,SIS 2610,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2610-C-T1,SIS 2610,teoria,C,Lunes,07:00,08:30,DOC-05,,,no,si,vigente,,oficial,,,
+SIS2610-C-T2,SIS 2610,teoria,C,Lunes,07:00,08:30,DOC-05,,,no,si,vigente,,oficial,,,
+SIS2610-C-AUX1,SIS 2610,auxiliatura,C,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2610-CH-T1,SIS 2610,teoria,CH,Lunes,07:00,08:30,DOC-33,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2610-CH-T2,SIS 2610,teoria,CH,Lunes,07:00,08:30,DOC-33,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2610-CH-AUX1,SIS 2610,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS2610-D-T1,SIS 2610,teoria,D,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS2610-D-T2,SIS 2610,teoria,D,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS2610-D-AUX1,SIS 2610,auxiliatura,D,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2740-A-T1,SIS 2740,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2740-A-T2,SIS 2740,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS2740-A-AUX1,SIS 2740,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2820-A-T1,SIS 2820,teoria,A,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS2820-A-T2,SIS 2820,teoria,A,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS2820-A-AUX1,SIS 2820,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS2830-A-T1,SIS 2830,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS2830-A-T2,SIS 2830,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS2830-A-AUX1,SIS 2830,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3540-A-T1,SIS 3540,teoria,A,Lunes,07:00,08:30,DOC-15,,,no,si,vigente,,oficial,,,
+SIS3540-A-T2,SIS 3540,teoria,A,Lunes,07:00,08:30,DOC-15,,,no,si,vigente,,oficial,,,
+SIS3540-A-AUX1,SIS 3540,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3540-B-T1,SIS 3540,teoria,B,Lunes,07:00,08:30,DOC-15,,,no,si,vigente,,oficial,,,
+SIS3540-B-T2,SIS 3540,teoria,B,Lunes,07:00,08:30,DOC-15,,,no,si,vigente,,oficial,,,
+SIS3540-B-AUX1,SIS 3540,auxiliatura,B,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3540-CH-T1,SIS 3540,teoria,CH,Lunes,07:00,08:30,DOC-41,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3540-CH-T2,SIS 3540,teoria,CH,Lunes,07:00,08:30,DOC-41,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3540-CH-AUX1,SIS 3540,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3620-CH-T1,SIS 3620,teoria,CH,Lunes,07:00,08:30,DOC-39,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3620-CH-T2,SIS 3620,teoria,CH,Lunes,07:00,08:30,DOC-39,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3620-CH-AUX1,SIS 3620,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3630-CH-T1,SIS 3630,teoria,CH,Lunes,07:00,08:30,DOC-37,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3630-CH-T2,SIS 3630,teoria,CH,Lunes,07:00,08:30,DOC-37,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3630-CH-AUX1,SIS 3630,auxiliatura,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3630-CH-LAB1,SIS 3630,laboratorio,CH,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3640-A-T1,SIS 3640,teoria,A,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS3640-A-T2,SIS 3640,teoria,A,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS3640-A-AUX1,SIS 3640,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3640-CH-T1,SIS 3640,teoria,CH,Lunes,07:00,08:30,DOC-42,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3640-CH-T2,SIS 3640,teoria,CH,Lunes,07:00,08:30,DOC-42,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3640-CH-AUX1,SIS 3640,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3651-A-T1,SIS 3651,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3651-A-T2,SIS 3651,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3651-A-AUX1,SIS 3651,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3651-A-LAB1,SIS 3651,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3652-A-T1,SIS 3652,teoria,A,Lunes,07:00,08:30,DOC-02,,,no,si,vigente,,oficial,,,
+SIS3652-A-T2,SIS 3652,teoria,A,Lunes,07:00,08:30,DOC-02,,,no,si,vigente,,oficial,,,
+SIS3652-A-AUX1,SIS 3652,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3662-A-T1,SIS 3662,teoria,A,Lunes,07:00,08:30,DOC-14,,,no,si,vigente,,oficial,,,
+SIS3662-A-T2,SIS 3662,teoria,A,Lunes,07:00,08:30,DOC-14,,,no,si,vigente,,oficial,,,
+SIS3662-A-AUX1,SIS 3662,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3701-A-T1,SIS 3701,teoria,A,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+SIS3701-A-T2,SIS 3701,teoria,A,Lunes,07:00,08:30,DOC-01,,,no,si,vigente,,oficial,,,
+SIS3701-A-AUX1,SIS 3701,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3701-CH-T1,SIS 3701,teoria,CH,Lunes,07:00,08:30,DOC-42,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3701-CH-T2,SIS 3701,teoria,CH,Lunes,07:00,08:30,DOC-42,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3701-CH-AUX1,SIS 3701,auxiliatura,CH,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,Sede Challapata
+SIS3702-A-T1,SIS 3702,teoria,A,Lunes,07:00,08:30,DOC-03,,,no,si,vigente,,oficial,,,
+SIS3702-A-T2,SIS 3702,teoria,A,Lunes,07:00,08:30,DOC-03,,,no,si,vigente,,oficial,,,
+SIS3702-A-AUX1,SIS 3702,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3720-A-T1,SIS 3720,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3720-A-T2,SIS 3720,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3720-A-AUX1,SIS 3720,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3730-A-T1,SIS 3730,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3730-A-T2,SIS 3730,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3730-A-AUX1,SIS 3730,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3732-A-T1,SIS 3732,teoria,A,Lunes,07:00,08:30,DOC-18,,,no,si,vigente,,oficial,,,
+SIS3732-A-T2,SIS 3732,teoria,A,Lunes,07:00,08:30,DOC-18,,,no,si,vigente,,oficial,,,
+SIS3732-A-AUX1,SIS 3732,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3753-A-T1,SIS 3753,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS3753-A-T2,SIS 3753,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS3753-A-AUX1,SIS 3753,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3763-A-T1,SIS 3763,teoria,A,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS3763-A-T2,SIS 3763,teoria,A,Lunes,07:00,08:30,DOC-10,,,no,si,vigente,,oficial,,,
+SIS3763-A-AUX1,SIS 3763,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3810-A-T1,SIS 3810,teoria,A,Lunes,07:00,08:30,DOC-31,,,no,si,vigente,,oficial,,,
+SIS3810-A-T2,SIS 3810,teoria,A,Lunes,07:00,08:30,DOC-31,,,no,si,vigente,,oficial,,,
+SIS3810-B-T1,SIS 3810,teoria,B,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS3810-B-T2,SIS 3810,teoria,B,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS3810-C-T1,SIS 3810,teoria,C,Lunes,07:00,08:30,DOC-16,,,no,si,vigente,,oficial,,,
+SIS3810-C-T2,SIS 3810,teoria,C,Lunes,07:00,08:30,DOC-16,,,no,si,vigente,,oficial,,,
+SIS3841-A-T1,SIS 3841,teoria,A,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+SIS3841-A-T2,SIS 3841,teoria,A,Lunes,07:00,08:30,DOC-08,,,no,si,vigente,,oficial,,,
+SIS3841-A-AUX1,SIS 3841,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3841-A-LAB1,SIS 3841,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3842-A-T1,SIS 3842,teoria,A,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS3842-A-T2,SIS 3842,teoria,A,Lunes,07:00,08:30,DOC-32,,,no,si,vigente,,oficial,,,
+SIS3842-A-AUX1,SIS 3842,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3843-A-T1,SIS 3843,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS3843-A-T2,SIS 3843,teoria,A,Lunes,07:00,08:30,DOC-07,,,no,si,vigente,,oficial,,,
+SIS3843-A-AUX1,SIS 3843,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS3910-A-T1,SIS 3910,teoria,A,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS3910-A-T2,SIS 3910,teoria,A,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS3910-C-T1,SIS 3910,teoria,C,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS3910-C-T2,SIS 3910,teoria,C,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS3910-D-T1,SIS 3910,teoria,D,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+SIS3910-D-T2,SIS 3910,teoria,D,Lunes,07:00,08:30,DOC-09,,,no,si,vigente,,oficial,,,
+SIS3930-A-T1,SIS 3930,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3930-A-T2,SIS 3930,teoria,A,Lunes,07:00,08:30,DOC-26,,,no,si,vigente,,oficial,,,
+SIS3930-A-AUX1,SIS 3930,auxiliatura,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3930-A-LAB1,SIS 3930,laboratorio,A,Lunes,07:00,07:45,,,,no,si,vigente,,oficial,,,
+SIS3952-A-T1,SIS 3952,teoria,A,Lunes,07:00,08:30,DOC-02,,,no,si,vigente,,oficial,,,
+SIS3952-A-T2,SIS 3952,teoria,A,Lunes,07:00,08:30,DOC-02,,,no,si,vigente,,oficial,,,
+SIS3952-A-AUX1,SIS 3952,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS4710-A-T1,SIS 4710,teoria,A,Lunes,07:00,08:30,DOC-11,,,no,si,vigente,,oficial,,,
+SIS4710-A-T2,SIS 4710,teoria,A,Lunes,07:00,08:30,DOC-11,,,no,si,vigente,,oficial,,,
+SIS4710-A-AUX1,SIS 4710,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS4920-A-AUX1,SIS 4920,auxiliatura,A,Lunes,07:00,08:30,,,,no,si,vigente,,oficial,,,
+SIS4940-A-T1,SIS 4940,teoria,A,Lunes,07:00,08:30,DOC-06,,,no,si,vigente,,oficial,,,
+SIS5100-A-T1,SIS 5100,teoria,A,Lunes,07:00,08:30,DOC-12,,,no,si,vigente,,oficial,,,
+SIS5100-B-T1,SIS 5100,teoria,B,Lunes,07:00,08:30,DOC-27,,,no,si,vigente,,oficial,,,

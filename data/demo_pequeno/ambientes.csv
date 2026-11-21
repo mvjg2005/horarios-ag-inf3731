@@ -1,0 +1,5 @@
+id,nombre,tipo,capacidad
+A1,Aula 1 (sim.),aula,40
+A2,Aula 2 (sim.),aula,40
+A3,Aula 3 pequeña (sim.),aula,3
+LAB1,Laboratorio 1 (sim.),laboratorio,25

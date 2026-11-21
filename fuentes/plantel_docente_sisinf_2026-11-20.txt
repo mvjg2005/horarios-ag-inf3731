@@ -1,0 +1,159 @@
+## Central
+Andrade Zeballos María Angélica
+- Reingeniería – SIS 3701 A
+- Análisis Discreto – INF 1210 B
+- Análisis Discreto – INF 1210 C
+- Sistemas de Información Geográfica – INF 3920 A
+Arrien Ayala Renee Jaime
+- Diseño Organizacional – SIS 3652 A
+- Competitividad y Productividad – SIS 3952 A
+Barrios Cordova Juan
+- Planificación Empresarial – SIS 3702 A
+- Redes De Banda Ancha – INF 3742 A
+Bermúdez Vargas Julio Cesar
+- Metodología de la Programación I – SIS 1110 D
+- Metodología de la Programación II – SIS 2210 A
+- Metodología de la Programación II – SIS 2210 B
+- Estructura de Datos – SIS 2310 A
+- Metodología de la Programación III – SIS 2330 A
+- Análisis Discreto – INF 1210 A
+- Ingeniería de Software I – INF 2720 A
+Bernal Martinez Ramiro Marcial
+- Investigación Operativa II – SIS 2610 C
+Céspedes Rojas Andy Alex
+- Realidad Nacional – SIS 4940 A
+- Sistemas Operativos II – INF 3420 A
+- Taller de Desarrollo de SW – INF 3741 A
+- Telefonía y Conmutación – INF 3752 A
+- Sistemas de Transmisión Ópticos – INF 3632 A
+Chinche Imaña Franz
+- Metodología de la Programación II – SIS 2210 C
+- Metodología de la Programación III – SIS 2330 C
+- Programación Gráfica – SIS 2430 A
+- Proyectos de Ingeniería de Sistemas – SIS 2740 A
+- Investigación Operativa III – SIS 3753 A
+- Investigación Operativa IV – SIS 3843 A
+- Teoria de la informacion – INF 2610 A
+Choque Uño Juan Gregorio
+- Estructura de Datos – SIS 2310 B
+- Programación Gráfica – SIS 2430 B
+- Diseño de Sistemas II – SIS 3841 A
+- Estructura de Computadores II – INF 3530 A
+Escalante Lunario Cesar Fernando
+- Metodología de la Programación I – SIS 1110 A
+- Investigación Operativa I – SIS 2510 B
+- Taller de Graduación II – SIS 3910 D
+- Sistemas Operativos I – INF 2310 A
+- Seguridad de Sistemas Informáticos – INF 2710 A
+Fernández Gutiérrez Roly Marcos
+- Metodología de la Programación III – SIS 2330 B
+- Gestión de Proyectos – SIS 2820 A
+- Planificación y Control de la Producción I – SIS 3640 A
+- Planificación y Control de la Producción II – SIS 3763 A
+Helguero Velásquez Hernán Luis
+- Metodología de la Investigación – SIS 4710 A
+- Programación De Robots – INF 3751 A
+Huanca Calle Ronald
+- Investigación Operativa II – SIS 2610 B
+- Investigación Operativa II – SIS 2610 D
+- Taller De Graduación I – SIS 3810 B
+- Taller De Graduación II – SIS 3910 A
+- Taller De Graduación II – SIS 3910 C
+- Graduación – SIS 5100 A
+Martinez Crovo Dennis
+- Redes Informáticas III – INF 3812 A
+- Taller de Telemática I – INF 3732 A
+Mayta Sarmiento David Edgar
+- Comercio Electrónico – SIS 3662 A
+- Base de Datos II – INF 3520 A
+Medinaceli Ortiz Ruben
+- Simulación de Sistemas – SIS 2520 A
+- Modelos Econométricos – SIS 3540 A
+- Modelos Econométricos – SIS 3540 B
+Mejía García Elizabeth
+- Taller De Graduación I – SIS 3810 C
+Miranda Alconce Richard Omar
+- Metodología de la Programación I – SIS 1110 B
+Miranda Siles Angel
+- Modelos Económicos – SIS 3732 A
+Misericordia Ayaviri Teófilo Cesar
+- Análisis De Balance – SIS 2220 C
+Monzon Fuentes Remy Kenier
+- Sistemas Multimedia – INF 3781 A
+Perez Ancasi Jose Luis
+- Administración de Sistemas de Comunicación – INF 3772 A
+Reynolds Salinas Miguel Angel
+- Redes Informáticas II – INF 3620 A
+- Algorítmica General – INF 3641 A
+Salas Paredes Orestes
+- Análisis De Balance – SIS 2220 A
+Salgado Ari Edilberto Lucio
+- Investigación Operativa I – SIS 2510 C
+- Estructura de Computadores I – INF 2410 A
+- Base de Datos – INF 2430 A
+- Inteligencia Artificial – INF 3731 A
+Serrudo Condori Erwin Saul
+- Actualización Tecnológica – SIS 2420 A
+Tapia Hinojosa Nelson
+- Modelos Administrativos – SIS 2320 A
+- Análisis de Sistemas – SIS 2530 A
+- Gestión de Calidad – SIS 2830 A
+- Diseño de Sistemas I – SIS 3651 A
+- Ingeniería de Sistemas II – SIS 3720 A
+- Evaluación de Sistemas – SIS 3730 A
+- Auditoria de Sistemas – SIS 3930 A
+Teran Mejia Evelyn Diana
+- Investigación Operativa I – SIS 2510 CH
+- Graduación – SIS 5100 B
+- Redes Informáticas I – INF 3510 CH
+Ureña Mérida Gregorio Fernando
+- Investigación Operativa I – SIS 2510 A
+- Prácticas en la Industria – SIS 4920 A
+- Redes Informáticas I – INF 3510 A
+- Redes Informáticas I – INF 3510 B
+- Diseño de Compiladores – INF 3631 A
+- Diseño de Redes – INF 3642 A
+- Comunicación Inalambrica – INF 3822 A
+Vallejos Paniagua Juan Carlos
+- Desarrollo de Aplicaciones Web – INF 3911 A
+Villalobos Sandy Edwin
+- Jefe Lab. Computación – LAB 1280
+- Metodología de la Programación I – SIS 1110
+Villanueva Fulguera Franklin Humberto
+- Taller de Graduación I – SIS 3810 A
+Zabaleta Rioja Ivar Fernando
+- Análisis de Balance – SIS 2220 B
+- Modelos Administrativos – SIS 2320 B
+- Investigación Operativa II – SIS 2610 A
+- Gestión de Recursos Humanos – SIS 3842 A
+## Challapata
+Chumacero Tellez Gisela
+- Investigación Operativa II – SIS 2610 CH
+- Base de Datos I – INF 2430 CH
+Delgadillo Coca Giancarlo
+- Metodología de la Programación III – SIS 2330 CH
+Flores Cáceres Lenny Jhovanna
+- Análisis De Balance – SIS 2220 CH
+Guzmán Coronel Roly Gonzalo
+- Metodología de la Programación I – SIS 1110 C
+- Metodología de la Programación I – SIS 1110 CH
+- Análisis Discreto – SIS 1210 CH
+Lizarazu Choque Lizet Karen
+- Simulación de Sistemas – SIS 2520 CH
+- Dinámica de Sistemas I – SIS 3630 CH
+Mita Choque Wilfredo
+- Metodología de la Programación II – SIS 2210 CH
+- Estructura de Datos – SIS 2310 CH
+- Actualización Tecnológica – SIS 2420 CH
+Quilla Gonzales Flavio
+- Modelos Administrativos – SIS 2320 CH
+- Análisis de Sistemas – SIS 2530 CH
+- Ingeniería de Sistemas – SIS 3620 CH
+Tarque Ortega Fernando Edwin
+- Programación Gráfica – SIS 3430 CH
+- Estructura de Computadores – INF 2410 CH
+Villca Aguilar Lorenzo Filemon
+- Modelos Econométricos – SIS 3540 CH
+Zapata Laime Gladys Rossemary
+- Planificación y Control de la Producción I – SIS 3640 CH
+- Reingeniería – SIS 3701 CH

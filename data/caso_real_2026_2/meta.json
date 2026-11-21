@@ -1,0 +1,28 @@
+{
+  "nombre": "Caso de estudio – Gestión 2026/2",
+  "tipo_datos": "real",
+  "descripcion": "Horario de una estudiante de Ingeniería de Sistemas e Informática (UTO-FNI): auxiliaturas y laboratorios adicionales informados y la reprogramación del Lab. de IA. Las clases teóricas del horario oficial deben transcribirse desde la captura del sistema académico.",
+  "dias": [
+    "Lunes",
+    "Martes",
+    "Miércoles",
+    "Jueves",
+    "Viernes",
+    "Sábado"
+  ],
+  "hora_inicio": "07:00",
+  "hora_fin": "21:00",
+  "resolucion": 30,
+  "pendientes": [
+    "Clases teóricas del horario oficial: PENDIENTES (no se recibió la captura del sistema académico).",
+    "Paralelos: se usa A, único paralelo publicado para estas materias en el plantel docente (20/11/2026).",
+    "Docentes, auxiliares y ambientes de cada actividad: no informados (no se inventan).",
+    "Disponibilidad de docentes, auxiliares, ambientes y de la estudiante: no informada.",
+    "Otros estudiantes inscritos: no informados; el caso considera sólo a la estudiante.",
+    "Franja institucional 07:00–21:00, lunes a sábado: SUPUESTO, confirmar.",
+    "Auxiliaturas y laboratorios se consideran reprogramables; su horario actual no implica que sean fijos.",
+    "Todas las actividades se consideran de asistencia obligatoria: SUPUESTO, confirmar.",
+    "Lab. de IA reprogramado (lunes 10:00–10:30): DURACIÓN POR CONFIRMAR (el original duraba 90 min)."
+  ],
+  "modo": "reprogramacion"
+}

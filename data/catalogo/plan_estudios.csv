@@ -1,0 +1,306 @@
+mencion_id,programa,mencion,semestre,sigla,nombre,horas_t,horas_p,horas_l,prerrequisito,tipo
+INF-TEL,Ingeniería Informática,Telemática,1,FIS 1100,FÍSICA I,4,0,3,INGRESO,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,1,MAT 1100,ÁLGEBRA I,4,2,0,INGRESO,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,1,MAT 1101,CÁLCULO I,4,2,0,INGRESO,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,1,QMC 1100,QUÍMICA GENERAL,4,0,3,INGRESO,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,1,SIS 1110,METODOLOGÍA DE LA PROGRAMACIÓN I,4,1,2,INGRESO,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,2,FIS 1102,FÍSICA II,4,0,3,FIS 1100,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,2,INF 1210,ANÁLISIS DISCRETO,4,2,0,MAT 1100,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,2,MAT 1102,CÁLCULO II,4,2,0,MAT 1101,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,2,MAT 1103,ÁLGEBRA II,4,2,0,MAT 1100,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,2,MAT 1135,ESTADÍSTICA I,4,1,1,MAT 1101,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,2,SIS 2210,METODOLOGÍA DE LA PROGRAMACIÓN II,4,1,2,SIS 1110,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,3,FIS 1200,FÍSICA III,4,0,3,FIS 1102,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,3,INF 2310,SISTEMAS OPERATIVOS I,4,1,1,INF 1210,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,3,MAT 1207,ECUACIONES DIFERENCIALES I,4,1,1,MAT 1102,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,3,MAT 1437,ESTADÍSTICA APLICADA,4,2,0,MAT 1135,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,3,SIS 2310,ESTRUCTURA DE DATOS,4,2,0,INF 1210,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,3,SIS 2330,METODOLOGÍA DE LA PROGRAMACIÓN III,4,1,2,SIS 2210,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,4,INF 2410,ESTRUCTURA DE COMPUTADORES I,4,1,1,FIS 1200,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,4,INF 2430,BASE DE DATOS I,4,1,1,SIS 2310,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,4,INF 3420,SISTEMAS OPERATIVOS II,4,1,1,INF 2310,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,4,MAT 1105,MÉTODOS NUMÉRICOS I,4,1,1,MAT 1207,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,4,SIS 2420,ACTUALIZACIÓN TECNOLÓGICA,2,2,2,SIS 2330,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,4,SIS 2430,PROGRAMACIÓN GRÁFICA,4,1,1,SIS 2330,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,5,INF 3510,REDES INFORMÁTICAS I,4,1,1,INF 3420,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,5,INF 3520,BASE DE DATOS II,4,1,1,INF 2430,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,5,INF 3530,ESTRUCTURA DE COMPUTADORES II,4,1,1,INF 2410,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,5,MAT 2106,MÉTODOS NUMÉRICOS II,4,2,0,MAT 1105,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,5,SIS 2510,INVESTIGACIÓN OPERATIVA I,4,2,0,MAT 1105,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,5,SIS 2530,ANÁLISIS DE SISTEMAS,4,1,1,INF 2430,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,6,INF 2610,TEORÍA DE LA INFORMACIÓN,4,2,0,SIS 2510,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,6,INF 3620,REDES INFORMÁTICAS II,4,1,1,INF 3510,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,6,INF 3632,SISTEMAS DE TRANSMISIÓN ÓPTICOS,4,2,0,INF 3530,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,6,INF 3642,DISEÑO DE REDES,4,2,0,INF 3510,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,6,SIS 2520,SIMULACIÓN DE SISTEMAS,4,2,0,SIS 2510,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,6,SIS 3651,DISEÑO DE SISTEMAS I,4,1,1,SIS 2530,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,7,INF 2710,SEGURIDAD DE SISTEMAS INFORMÁTICOS,3,1,1,INF 3620,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,7,INF 2720,INGENIERÍA DE SOFTWARE I,4,1,1,SIS 3651,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,7,INF 3732,TALLER DE TELEMÁTICA I,2,2,2,INF 3642,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,7,INF 3742,REDES DE BANDA ANCHA,4,2,0,INF 3632,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,7,SIS 4710,METODOLOGÍA DE LA INVESTIGACIÓN,4,2,0,SIS 2520,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,7,ELEC 1,ELECTIVA 1,4,2,0,,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,8,INF 3812,REDES INFORMÁTICAS III,4,1,1,INF 3732,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,8,INF 3822,COMUNICACIÓN INALÁMBRICA,4,1,1,INF 3742,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,8,SIS 2740,PROYECTOS DE INGENIERÍA DE SISTEMAS,4,2,0,SIS 4710,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,8,SIS 3810,TALLER DE GRADUACIÓN I,4,0,0,INF 2710,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,8,ELEC 2,ELECTIVA 2,4,2,0,,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,9,INF 3912,TALLER DE TELEMÁTICA II,2,2,2,INF 3812,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,9,INF 3920,SISTEMAS DE INFORMACIÓN GEOGRÁFICA,4,1,1,SIS 2740,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,9,SIS 3910,TALLER DE GRADUACIÓN II,4,0,0,SIS 3810,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,9,SIS 4920,PRÁCTICAS EN LA INDUSTRIA,0,2,0,SIS 3810,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,9,SIS 4940,REALIDAD NACIONAL,2,0,0,SIS 2740,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,10,SIS 5100,GRADUACIÓN,2,0,0,SIS 3910,obligatoria
+INF-TEL,Ingeniería Informática,Telemática,0,INF 3711,RECUPERACIÓN DE LA INFORMACIÓN,4,2,0,INF 2610,electiva
+INF-TEL,Ingeniería Informática,Telemática,0,INF 3752,TELEFONÍA Y CONMUTACIÓN,4,2,0,INF 3620,electiva
+INF-TEL,Ingeniería Informática,Telemática,0,INF 3762,SISTEMAS BIOMÉTRICOS,4,2,0,INF 2720,electiva
+INF-TEL,Ingeniería Informática,Telemática,0,INF 3772,ADMINISTRACIÓN DE SISTEMAS DE COMUNICACIÓN,4,2,0,INF 3632,electiva
+INF-TEL,Ingeniería Informática,Telemática,0,INF 3911,DESARROLLO DE APLICACIONES WEB,4,1,1,INF 3642,electiva
+INF-TEL,Ingeniería Informática,Telemática,0,SIS 3731,SUPERACIÓN Y POSICIONAMIENTO PROFESIONAL,4,2,0,INF 3742,electiva
+INF-TEL,Ingeniería Informática,Telemática,-1,LIN 1101,INGLÉS GENERAL I,4,0,0,,no_curricular
+INF-TEL,Ingeniería Informática,Telemática,-1,LIN 1102,INGLÉS TÉCNICO I,4,0,0,LIN 1101,no_curricular
+INF-TEL,Ingeniería Informática,Telemática,-1,LIN 1103,INGLÉS TÉCNICO II,4,0,0,LIN 1102,no_curricular
+INF-DSW,Ingeniería Informática,Desarrollo de Software,1,FIS 1100,FÍSICA I,4,0,3,INGRESO,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,1,MAT 1100,ÁLGEBRA I,4,2,0,INGRESO,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,1,MAT 1101,CÁLCULO I,4,2,0,INGRESO,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,1,QMC 1100,QUÍMICA GENERAL,4,0,3,INGRESO,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,1,SIS 1110,METODOLOGÍA DE LA PROGRAMACIÓN I,4,1,2,INGRESO,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,2,FIS 1102,FÍSICA II,4,0,3,FIS 1100,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,2,INF 1210,ANÁLISIS DISCRETO,4,2,0,MAT 1100,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,2,MAT 1102,CÁLCULO II,4,2,0,MAT 1101,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,2,MAT 1103,ÁLGEBRA II,4,2,0,MAT 1100,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,2,MAT 1135,ESTADÍSTICA I,4,1,1,MAT 1101,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,2,SIS 2210,METODOLOGÍA DE LA PROGRAMACIÓN II,4,1,2,SIS 1110,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,3,FIS 1200,FÍSICA III,4,0,3,FIS 1102,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,3,INF 2310,SISTEMAS OPERATIVOS I,4,1,1,INF 1210,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,3,MAT 1207,ECUACIONES DIFERENCIALES I,4,1,1,MAT 1102,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,3,MAT 1437,ESTADÍSTICA APLICADA,4,2,0,MAT 1135,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,3,SIS 2310,ESTRUCTURA DE DATOS,4,2,0,INF 1210,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,3,SIS 2330,METODOLOGÍA DE LA PROGRAMACIÓN III,4,1,2,SIS 2210,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,4,INF 2410,ESTRUCTURA DE COMPUTADORES I,4,1,1,FIS 1200,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,4,INF 2430,BASE DE DATOS I,4,1,1,SIS 2310,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,4,INF 3420,SISTEMAS OPERATIVOS II,4,1,1,INF 2310,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,4,MAT 1105,MÉTODOS NUMÉRICOS I,4,1,1,MAT 1207,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,4,SIS 2420,ACTUALIZACIÓN TECNOLÓGICA,2,2,2,SIS 2330,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,4,SIS 2430,PROGRAMACIÓN GRÁFICA,4,1,1,SIS 2330,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,5,INF 3510,REDES INFORMÁTICAS I,4,1,1,INF 3420,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,5,INF 3520,BASE DE DATOS II,4,1,1,INF 2430,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,5,INF 3530,ESTRUCTURA DE COMPUTADORES II,4,1,1,INF 2410,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,5,MAT 2106,MÉTODOS NUMÉRICOS II,4,2,0,SIS 2420,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,5,SIS 2510,INVESTIGACIÓN OPERATIVA I,4,2,0,MAT 1105,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,5,SIS 2530,ANÁLISIS DE SISTEMAS,4,1,1,INF 2430,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,6,INF 2610,TEORÍA DE LA INFORMACIÓN,4,2,0,SIS 2510,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,6,INF 3620,REDES INFORMÁTICAS II,4,1,1,INF 3510,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,6,INF 3631,DISEÑO DE COMPILADORES,4,1,1,INF 3530,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,6,INF 3641,ALGORÍTMICA GENERAL,4,1,1,SIS 2530,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,6,SIS 2520,SIMULACIÓN DE SISTEMAS,4,2,0,SIS 2510,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,6,SIS 3651,DISEÑO DE SISTEMAS I,4,1,1,SIS 2530,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,7,INF 2710,SEGURIDAD DE SISTEMAS INFORMÁTICOS,3,1,1,INF 3620,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,7,INF 2720,INGENIERÍA DE SOFTWARE I,4,1,1,SIS 3651,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,7,INF 3731,INTELIGENCIA ARTIFICIAL I,4,1,1,INF 3631,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,7,INF 3741,TALLER DE DESARROLLO DE SW,4,1,1,INF 3641,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,7,SIS 4710,METODOLOGÍA DE LA INVESTIGACIÓN,4,2,0,SIS 2520,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,7,ELEC 1,ELECTIVA 1,4,2,0,,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,8,INF 3811,INGENIERÍA DE SOFTWARE II,4,1,1,INF 2720,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,8,SIS 2740,PROYECTOS DE INGENIERÍA DE SISTEMAS,4,2,0,SIS 4710,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,8,SIS 3810,TALLER DE GRADUACIÓN I,4,0,0,INF 2710,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,8,SIS 3930,AUDITORÍA DE SISTEMAS,4,1,1,INF 3741,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,8,ELEC 2,ELECTIVA 2,4,2,0,,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,9,INF 3911,DESARROLLO DE APLICACIONES WEB,4,1,1,INF 3811,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,9,INF 3920,SISTEMAS DE INFORMACIÓN GEOGRÁFICA,4,1,1,SIS 2740,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,9,SIS 3910,TALLER DE GRADUACIÓN II,4,0,0,SIS 3810,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,9,SIS 4920,PRÁCTICAS EN LA INDUSTRIA,0,2,0,SIS 3810,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,9,SIS 4940,REALIDAD NACIONAL,2,0,0,SIS 2740,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,10,SIS 5100,GRADUACIÓN,2,0,0,SIS 3910,obligatoria
+INF-DSW,Ingeniería Informática,Desarrollo de Software,0,INF 3751,PROGRAMACIÓN DE ROBOTS,4,2,0,INF 3631,electiva
+INF-DSW,Ingeniería Informática,Desarrollo de Software,0,INF 3761,SISTEMAS EN TIEMPO REAL,4,2,0,SIS 3651,electiva
+INF-DSW,Ingeniería Informática,Desarrollo de Software,0,INF 3771,DIRECCIÓN Y ORGANIZACIÓN DE PROYECTOS INFORMÁTICOS,4,2,0,SIS 4710,electiva
+INF-DSW,Ingeniería Informática,Desarrollo de Software,0,INF 3781,SISTEMAS MULTIMEDIA,4,2,0,INF 2720,electiva
+INF-DSW,Ingeniería Informática,Desarrollo de Software,0,SIS 3701,REINGENIERÍA,4,2,0,SIS 2520,electiva
+INF-DSW,Ingeniería Informática,Desarrollo de Software,0,SIS 3731,SUPERACIÓN Y POSICIONAMIENTO PROFESIONAL,4,2,0,INF 3741,electiva
+INF-DSW,Ingeniería Informática,Desarrollo de Software,-1,LIN 1101,INGLÉS GENERAL I,4,0,0,,no_curricular
+INF-DSW,Ingeniería Informática,Desarrollo de Software,-1,LIN 1102,INGLÉS TÉCNICO I,4,0,0,LIN 1101,no_curricular
+INF-DSW,Ingeniería Informática,Desarrollo de Software,-1,LIN 1103,INGLÉS TÉCNICO II,4,0,0,LIN 1102,no_curricular
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,1,FIS 1100,FÍSICA I,4,0,3,INGRESO,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,1,MAT 1100,ÁLGEBRA I,4,2,0,INGRESO,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,1,MAT 1101,CÁLCULO I,4,2,0,INGRESO,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,1,QMC 1100,QUÍMICA GENERAL,4,0,3,INGRESO,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,1,SIS 1110,METODOLOGÍA DE LA PROGRAMACIÓN I,4,1,2,INGRESO,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,2,FIS 1102,FÍSICA II,4,0,3,FIS 1100,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,2,INF 1210,ANÁLISIS DISCRETO,4,2,0,SIS 1110,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,2,MAT 1102,CÁLCULO II,4,2,0,MAT 1101,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,2,MAT 1103,ÁLGEBRA II,4,2,0,MAT 1100,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,2,SIS 2210,METODOLOGÍA DE LA PROGRAMACIÓN II,4,1,2,SIS 1110,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,2,SIS 2220,ANÁLISIS DE BALANCE,4,2,0,QMC 1100,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,3,FIS 1200,FÍSICA III,4,0,3,FIS 1102,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,3,MAT 1135,ESTADÍSTICA I,4,1,1,MAT 1103,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,3,MAT 1207,ECUACIONES DIFERENCIALES I,4,1,1,MAT 1102,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,3,SIS 2310,ESTRUCTURA DE DATOS,4,2,0,INF 1210,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,3,SIS 2320,MODELOS ADMINISTRATIVOS,4,2,0,SIS 2220,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,3,SIS 2330,METODOLOGÍA DE LA PROGRAMACIÓN III,4,1,2,SIS 2210,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,4,INF 2410,ESTRUCTURA DE COMPUTADORES I,4,1,1,FIS 1200,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,4,INF 2430,BASE DE DATOS I,4,1,1,SIS 2320,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,4,MAT 1105,MÉTODOS NUMÉRICOS I,4,1,1,MAT 1207,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,4,MAT 1437,ESTADÍSTICA APLICADA,4,2,0,MAT 1135,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,4,SIS 2420,ACTUALIZACIÓN TECNOLÓGICA,2,2,2,SIS 2310,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,4,SIS 2430,PROGRAMACIÓN GRÁFICA,4,1,1,SIS 2330,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,5,INF 3510,REDES INFORMÁTICAS I,4,1,1,INF 2410,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,5,MAT 2208,ECUACIONES DIFERENCIALES II,4,2,0,MAT 1207,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,5,SIS 2510,INVESTIGACIÓN OPERATIVA I,4,2,0,MAT 1105,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,5,SIS 2520,SIMULACIÓN DE SISTEMAS,4,2,0,MAT 1437,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,5,SIS 2530,ANÁLISIS DE SISTEMAS,4,1,1,SIS 2420,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,5,SIS 3540,MODELOS ECONOMÉTRICOS,4,2,0,INF 2430,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,6,IND 2202,INGENIERÍA DE MÉTODOS,4,0,2,SIS 2510,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,6,SIS 2610,INVESTIGACIÓN OPERATIVA II,4,2,0,SIS 2510,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,6,SIS 3620,INGENIERÍA DE SISTEMAS I,4,2,0,SIS 2530,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,6,SIS 3630,DINÁMICA DE SISTEMAS I,4,1,1,SIS 2520,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,6,SIS 3640,PLANIFICACIÓN Y CONTROL DE LA PRODUCCIÓN I,4,2,0,SIS 3540,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,6,ELEC 1,ELECTIVA 1,4,2,0,,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,7,SIS 2740,PROYECTOS DE INGENIERÍA DE SISTEMAS,4,2,0,SIS 3640,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,7,SIS 3720,INGENIERÍA DE SISTEMAS II,4,2,0,SIS 3620,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,7,SIS 3730,EVALUACIÓN DE SISTEMAS,4,2,0,SIS 3630,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,7,SIS 3753,INVESTIGACIÓN OPERATIVA III,4,2,0,SIS 2610,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,7,SIS 3763,PLANIFICACIÓN Y CONTROL DE LA PRODUCCIÓN II,4,2,0,SIS 3640,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,7,SIS 4710,METODOLOGÍA DE LA INVESTIGACIÓN,4,2,0,SIS 2610,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,8,SIS 2820,GESTIÓN DE PROYECTOS,4,2,0,SIS 2740,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,8,SIS 2830,GESTIÓN DE CALIDAD,4,1,0,SIS 3720,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,8,SIS 3810,TALLER DE GRADUACIÓN I,4,0,0,SIS 4710,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,8,SIS 3843,INVESTIGACIÓN OPERATIVA IV,4,2,0,SIS 3753,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,8,ELEC 2,ELECTIVA 2,4,2,0,,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,9,ELT 3890,AUTOMÁTICA I,4,0,2,SIS 3843,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,9,SIS 3910,TALLER DE GRADUACIÓN II,4,0,0,SIS 3810,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,9,SIS 3930,AUDITORÍA DE SISTEMAS,4,1,1,SIS 2830,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,9,SIS 4920,PRÁCTICAS EN LA INDUSTRIA,0,2,0,SIS 2820,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,9,SIS 4940,REALIDAD NACIONAL,2,0,0,SIS 2830,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,10,SIS 5100,GRADUACIÓN,2,0,0,SIS 3910,obligatoria
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,0,INF 3731,INTELIGENCIA ARTIFICIAL I,4,1,1,SIS 2610,electiva
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,0,INF 3751,PROGRAMACIÓN DE ROBOTS,4,2,0,SIS 3720,electiva
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,0,SIS 3701,REINGENIERÍA,4,2,0,SIS 2530,electiva
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,0,SIS 3703,DINÁMICA DE SISTEMAS II,4,2,0,SIS 3630,electiva
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,0,SIS 3731,SUPERACIÓN Y POSICIONAMIENTO PROFESIONAL,4,2,0,SIS 2510,electiva
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,0,SIS 3732,MODELOS ECONÓMICOS,4,2,0,SIS 3540,electiva
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,-1,LIN 1101,INGLÉS GENERAL I,4,0,0,,no_curricular
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,-1,LIN 1102,INGLÉS TÉCNICO I,4,0,0,LIN 1101,no_curricular
+SIS-MOR,Ingeniería de Sistemas,Modelamiento y Optimización de Recursos-Procesos,-1,LIN 1103,INGLÉS TÉCNICO II,4,0,0,LIN 1102,no_curricular
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,1,FIS 1100,FÍSICA I,4,0,3,INGRESO,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,1,MAT 1100,ÁLGEBRA I,4,2,0,INGRESO,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,1,MAT 1101,CÁLCULO I,4,2,0,INGRESO,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,1,QMC 1100,QUÍMICA GENERAL,4,0,3,INGRESO,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,1,SIS 1110,METODOLOGÍA DE LA PROGRAMACIÓN I,4,1,2,INGRESO,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,2,FIS 1102,FÍSICA II,4,0,3,FIS 1100,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,2,INF 1210,ANÁLISIS DISCRETO,4,2,0,SIS 1110,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,2,MAT 1102,CÁLCULO II,4,2,0,MAT 1101,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,2,MAT 1103,ÁLGEBRA II,4,2,0,MAT 1100,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,2,SIS 2210,METODOLOGÍA DE LA PROGRAMACIÓN II,4,1,2,SIS 1110,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,2,SIS 2220,ANÁLISIS DE BALANCE,4,2,0,QMC 1100,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,3,FIS 1200,FÍSICA III,4,0,3,FIS 1102,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,3,MAT 1135,ESTADÍSTICA I,4,1,1,MAT 1103,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,3,MAT 1207,ECUACIONES DIFERENCIALES I,4,1,1,MAT 1102,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,3,SIS 2310,ESTRUCTURA DE DATOS,4,2,0,INF 1210,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,3,SIS 2320,MODELOS ADMINISTRATIVOS,4,2,0,SIS 2220,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,3,SIS 2330,METODOLOGÍA DE LA PROGRAMACIÓN III,4,1,2,SIS 2210,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,4,INF 2410,ESTRUCTURA DE COMPUTADORES I,4,1,1,FIS 1200,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,4,INF 2430,BASE DE DATOS I,4,1,1,SIS 2320,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,4,MAT 1105,MÉTODOS NUMÉRICOS I,4,1,1,MAT 1207,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,4,MAT 1437,ESTADÍSTICA APLICADA,4,2,0,MAT 1135,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,4,SIS 2420,ACTUALIZACIÓN TECNOLÓGICA,2,2,2,SIS 2310,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,4,SIS 2430,PROGRAMACIÓN GRÁFICA,4,1,1,SIS 2330,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,5,INF 3510,REDES INFORMÁTICAS I,4,1,1,INF 2410,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,5,MAT 2106,MÉTODOS NUMÉRICOS II,4,2,0,MAT 1105,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,5,SIS 2510,INVESTIGACIÓN OPERATIVA I,4,2,0,MAT 1105,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,5,SIS 2520,SIMULACIÓN DE SISTEMAS,4,2,0,MAT 1437,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,5,SIS 2530,ANÁLISIS DE SISTEMAS,4,1,1,SIS 2420,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,5,SIS 3540,MODELOS ECONOMÉTRICOS,4,2,0,INF 2430,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,6,INF 3520,BASE DE DATOS II,4,1,1,INF 3510,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,6,SIS 2610,INVESTIGACIÓN OPERATIVA II,4,2,0,SIS 2510,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,6,SIS 3620,INGENIERÍA DE SISTEMAS I,4,2,0,SIS 2530,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,6,SIS 3630,DINÁMICA DE SISTEMAS I,4,1,1,SIS 2520,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,6,SIS 3640,PLANIFICACIÓN Y CONTROL DE LA PRODUCCIÓN I,4,2,0,SIS 3540,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,6,SIS 3651,DISEÑO DE SISTEMAS I,4,1,1,SIS 2530,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,7,INF 3620,REDES INFORMÁTICAS II,4,1,1,SIS 3651,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,7,SIS 2740,PROYECTOS DE INGENIERÍA DE SISTEMAS,4,2,0,SIS 3640,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,7,SIS 3720,INGENIERÍA DE SISTEMAS II,4,2,0,SIS 3620,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,7,SIS 3730,EVALUACIÓN DE SISTEMAS,4,2,0,SIS 3630,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,7,SIS 4710,METODOLOGÍA DE LA INVESTIGACIÓN,4,2,0,SIS 2610,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,7,ELEC 1,ELECTIVA 1,4,2,0,,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,8,SIS 2820,GESTIÓN DE PROYECTOS,4,2,0,SIS 2740,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,8,SIS 2830,GESTIÓN DE CALIDAD,4,1,0,SIS 3720,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,8,SIS 3810,TALLER DE GRADUACIÓN I,4,0,0,SIS 4710,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,8,SIS 3841,DISEÑO DE SISTEMAS II,4,1,1,SIS 3651,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,8,ELEC 2,ELECTIVA 2,4,2,0,,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,9,INF 2720,INGENIERÍA DE SOFTWARE I,4,1,1,SIS 3841,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,9,SIS 3910,TALLER DE GRADUACIÓN II,4,0,0,SIS 3810,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,9,SIS 3930,AUDITORÍA DE SISTEMAS,4,1,1,SIS 2830,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,9,SIS 4920,PRÁCTICAS EN LA INDUSTRIA,0,2,0,SIS 3810,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,9,SIS 4940,REALIDAD NACIONAL,2,0,0,SIS 2830,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,10,SIS 5100,GRADUACIÓN,2,0,0,SIS 3910,obligatoria
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,0,INF 2710,SEGURIDAD DE SISTEMAS INFORMÁTICOS,3,1,1,INF 3620,electiva
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,0,INF 3711,RECUPERACIÓN DE LA INFORMACIÓN,4,2,0,SIS 3841,electiva
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,0,INF 3731,INTELIGENCIA ARTIFICIAL I,4,1,1,INF 3520,electiva
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,0,INF 3911,DESARROLLO DE APLICACIONES WEB,4,1,1,SIS 3651,electiva
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,0,SIS 3701,REINGENIERÍA,4,2,0,SIS 2740,electiva
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,0,SIS 3731,SUPERACIÓN Y POSICIONAMIENTO PROFESIONAL,4,2,0,SIS 3620,electiva
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,-1,LIN 1101,INGLÉS GENERAL I,4,0,0,,no_curricular
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,-1,LIN 1102,INGLÉS TÉCNICO I,4,0,0,LIN 1101,no_curricular
+SIS-GIN,Ingeniería de Sistemas,Gestión de la Información,-1,LIN 1103,INGLÉS TÉCNICO II,4,0,0,LIN 1102,no_curricular
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,1,FIS 1100,FÍSICA I,4,0,3,INGRESO,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,1,MAT 1100,ÁLGEBRA I,4,2,0,INGRESO,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,1,MAT 1101,CÁLCULO I,4,2,0,INGRESO,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,1,QMC 1100,QUÍMICA GENERAL,4,0,3,INGRESO,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,1,SIS 1110,METODOLOGÍA DE LA PROGRAMACIÓN I,4,1,2,INGRESO,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,2,FIS 1102,FÍSICA II,4,0,3,FIS 1100,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,2,INF 1210,ANÁLISIS DISCRETO,4,2,0,SIS 1110,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,2,MAT 1102,CÁLCULO II,4,2,0,MAT 1101,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,2,MAT 1103,ÁLGEBRA II,4,2,0,MAT 1100,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,2,SIS 2210,METODOLOGÍA DE LA PROGRAMACIÓN II,4,1,2,SIS 1110,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,2,SIS 2220,ANÁLISIS DE BALANCE,4,2,0,QMC 1100,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,3,FIS 1200,FÍSICA III,4,0,3,FIS 1102,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,3,MAT 1135,ESTADÍSTICA I,4,1,1,MAT 1103,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,3,MAT 1207,ECUACIONES DIFERENCIALES I,4,1,1,MAT 1102,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,3,SIS 2310,ESTRUCTURA DE DATOS,4,2,0,INF 1210,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,3,SIS 2320,MODELOS ADMINISTRATIVOS,4,2,0,SIS 2220,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,3,SIS 2330,METODOLOGÍA DE LA PROGRAMACIÓN III,4,1,2,SIS 2210,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,4,INF 2410,ESTRUCTURA DE COMPUTADORES I,4,1,1,FIS 1200,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,4,INF 2430,BASE DE DATOS I,4,1,1,SIS 2320,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,4,MAT 1105,MÉTODOS NUMÉRICOS I,4,1,1,MAT 1207,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,4,MAT 1437,ESTADÍSTICA APLICADA,4,2,0,MAT 1135,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,4,SIS 2420,ACTUALIZACIÓN TECNOLÓGICA,2,2,2,SIS 2310,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,4,SIS 2430,PROGRAMACIÓN GRÁFICA,4,1,1,SIS 2330,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,5,INF 3510,REDES INFORMÁTICAS I,4,1,1,INF 2410,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,5,MAT 2106,MÉTODOS NUMÉRICOS II,4,2,0,MAT 1105,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,5,SIS 2510,INVESTIGACIÓN OPERATIVA I,4,2,0,MAT 1105,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,5,SIS 2520,SIMULACIÓN DE SISTEMAS,4,2,0,MAT 1437,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,5,SIS 2530,ANÁLISIS DE SISTEMAS,4,1,1,SIS 2420,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,5,SIS 3540,MODELOS ECONOMÉTRICOS,4,2,0,INF 2430,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,6,SIS 2610,INVESTIGACIÓN OPERATIVA II,4,2,0,SIS 2510,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,6,SIS 3620,INGENIERÍA DE SISTEMAS I,4,2,0,SIS 2530,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,6,SIS 3630,DINÁMICA DE SISTEMAS I,4,1,1,SIS 2520,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,6,SIS 3640,PLANIFICACIÓN Y CONTROL DE LA PRODUCCIÓN I,4,2,0,SIS 3540,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,6,SIS 3652,DISEÑO ORGANIZACIONAL,4,2,0,SIS 3540,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,6,SIS 3662,COMERCIO ELECTRÓNICO,4,2,0,INF 3510,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,7,SIS 2740,PROYECTOS DE INGENIERÍA DE SISTEMAS,4,2,0,SIS 3640,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,7,SIS 3720,INGENIERÍA DE SISTEMAS II,4,2,0,SIS 3620,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,7,SIS 3730,EVALUACIÓN DE SISTEMAS,4,2,0,SIS 3630,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,7,SIS 4710,METODOLOGÍA DE LA INVESTIGACIÓN,4,2,0,SIS 2610,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,7,ELEC 1,ELECTIVA 1,4,2,0,,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,8,IND 2212,MARKETING INDUSTRIAL,4,1,0,SIS 3730,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,8,SIS 2820,GESTIÓN DE PROYECTOS,4,2,0,SIS 2740,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,8,SIS 2830,GESTIÓN DE CALIDAD,4,1,0,SIS 3720,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,8,SIS 3810,TALLER DE GRADUACIÓN I,4,0,0,SIS 4710,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,8,SIS 3842,GESTIÓN DE RECURSOS HUMANOS,4,2,0,SIS 3720,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,8,ELEC 2,ELECTIVA 2,4,2,0,,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,9,SIS 3910,TALLER DE GRADUACIÓN II,4,0,0,SIS 3810,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,9,SIS 3930,AUDITORÍA DE SISTEMAS,4,1,1,SIS 2830,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,9,SIS 3952,COMPETITIVIDAD Y PRODUCTIVIDAD,4,2,0,SIS 3842,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,9,SIS 4920,PRÁCTICAS EN LA INDUSTRIA,0,2,0,SIS 2820,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,9,SIS 4940,REALIDAD NACIONAL,2,0,0,SIS 2830,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,10,SIS 5100,GRADUACIÓN,2,0,0,SIS 3910,obligatoria
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,0,SIS 3701,REINGENIERÍA,4,2,0,SIS 2740,electiva
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,0,SIS 3702,PLANEACIÓN EMPRESARIAL,4,2,0,SIS 3640,electiva
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,0,SIS 3712,ECONOMÍA INFORMÁTICA,4,0,0,SIS 3652,electiva
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,0,SIS 3722,ESTRATEGIAS DE GESTIÓN DE LA INFORMACIÓN,4,2,0,SIS 3720,electiva
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,0,SIS 3731,SUPERACIÓN Y POSICIONAMIENTO PROFESIONAL,4,2,0,SIS 3620,electiva
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,0,SIS 3732,MODELOS ECONÓMICOS,4,2,0,SIS 3540,electiva
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,-1,LIN 1101,INGLÉS GENERAL I,4,0,0,,no_curricular
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,-1,LIN 1102,INGLÉS TÉCNICO I,4,0,0,LIN 1101,no_curricular
+SIS-DGE,Ingeniería de Sistemas,Dirección y Gestión de Sistemas Empresariales,-1,LIN 1103,INGLÉS TÉCNICO II,4,0,0,LIN 1102,no_curricular

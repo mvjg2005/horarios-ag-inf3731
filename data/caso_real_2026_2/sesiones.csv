@@ -1,0 +1,11 @@
+id,asignatura,tipo,paralelo,dia,inicio,fin,responsable,ambiente,duracion_requerida_min,fija,obligatoria,estado,reemplaza,origen,dias_permitidos,tipo_ambiente,observacion
+AUX-GCAL,GCAL,auxiliatura,A,Lunes,14:30,16:00,,,,no,si,vigente,,adicional,,,
+AUX-RNAC,RNAC,auxiliatura,A,Martes,12:30,14:00,,,,no,si,vigente,,adicional,,,
+AUX-CELE,CELE,auxiliatura,A,Martes,16:30,18:00,,,,no,si,vigente,,adicional,,,El martes 16:30–18:00 corresponde exclusivamente a Comercio Electrónico.
+AUX-IA,IA,auxiliatura,A,Miércoles,10:30,12:00,,,,no,si,vigente,,adicional,,,Aclaración: la auxiliatura de IA se realiza solamente el miércoles 10:30–12:00.
+AUX-GPRO,GPRO,auxiliatura,A,Miércoles,16:30,18:00,,,,no,si,vigente,,adicional,,,
+AUX-IO4,IO4,auxiliatura,A,Miércoles,16:30,18:00,,,,no,si,vigente,,adicional,,,
+LAB-AUD,AUD,laboratorio,A,Miércoles,16:30,18:00,,,,no,si,vigente,,adicional,,,
+LAB-IA-ORIG,IA,laboratorio,A,Miércoles,16:30,18:00,,,,no,si,reemplazada,,adicional,,,Horario originalmente programado; reemplazado por LAB-IA-REPRO.
+LAB-IA-REPRO,IA,laboratorio,A,Lunes,10:00,10:30,,,90,no,si,pendiente_confirmacion,LAB-IA-ORIG,reprogramacion,,,Reprogramación informada por conflictos. Duración de 30 min POR CONFIRMAR.
+AUX-AUD,AUD,auxiliatura,A,Viernes,14:30,16:00,,,,no,si,vigente,,adicional,,,

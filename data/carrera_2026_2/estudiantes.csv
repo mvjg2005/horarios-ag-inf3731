@@ -1,0 +1,207 @@
+id,nombre,semestre,tipo
+IRR-INF-TEL-01,Inf. Telemática · irregular 1.º–2.º sem.,1-2,irregular
+COH-INF-TEL-02-A,Inf. Telemática · 2.º sem. · paralelo A,2,regular
+COH-INF-TEL-02-B,Inf. Telemática · 2.º sem. · paralelo B,2,regular
+COH-INF-TEL-02-C,Inf. Telemática · 2.º sem. · paralelo C,2,regular
+COH-INF-TEL-02-CH,Inf. Telemática · 2.º sem. · paralelo CH,2,regular
+IRR-INF-TEL-02,Inf. Telemática · irregular 2.º–3.º sem.,2-3,irregular
+COH-INF-TEL-03-A,Inf. Telemática · 3.º sem. · paralelo A,3,regular
+COH-INF-TEL-03-B,Inf. Telemática · 3.º sem. · paralelo B,3,regular
+COH-INF-TEL-03-C,Inf. Telemática · 3.º sem. · paralelo C,3,regular
+COH-INF-TEL-03-CH,Inf. Telemática · 3.º sem. · paralelo CH,3,regular
+IRR-INF-TEL-03,Inf. Telemática · irregular 3.º–4.º sem.,3-4,irregular
+COH-INF-TEL-04-A,Inf. Telemática · 4.º sem. · paralelo A,4,regular
+COH-INF-TEL-04-B,Inf. Telemática · 4.º sem. · paralelo B,4,regular
+COH-INF-TEL-04-CH,Inf. Telemática · 4.º sem. · paralelo CH,4,regular
+IRR-INF-TEL-04,Inf. Telemática · irregular 4.º–5.º sem.,4-5,irregular
+COH-INF-TEL-05-A,Inf. Telemática · 5.º sem. · paralelo A,5,regular
+COH-INF-TEL-05-B,Inf. Telemática · 5.º sem. · paralelo B,5,regular
+COH-INF-TEL-05-C,Inf. Telemática · 5.º sem. · paralelo C,5,regular
+COH-INF-TEL-05-CH,Inf. Telemática · 5.º sem. · paralelo CH,5,regular
+IRR-INF-TEL-05,Inf. Telemática · irregular 5.º–6.º sem.,5-6,irregular
+COH-INF-TEL-06-A,Inf. Telemática · 6.º sem. · paralelo A,6,regular
+IRR-INF-TEL-06,Inf. Telemática · irregular 6.º–7.º sem.,6-7,irregular
+COH-INF-TEL-07-A,Inf. Telemática · 7.º sem. · paralelo A,7,regular
+COH-INF-TEL-07-E-INF3752,Inf. Telemática · 7.º sem. · con electiva INF 3752,7,regular
+COH-INF-TEL-07-E-INF3772,Inf. Telemática · 7.º sem. · con electiva INF 3772,7,regular
+COH-INF-TEL-07-E-INF3911,Inf. Telemática · 7.º sem. · con electiva INF 3911,7,regular
+IRR-INF-TEL-07,Inf. Telemática · irregular 7.º–8.º sem.,7-8,irregular
+COH-INF-TEL-08-A,Inf. Telemática · 8.º sem. · paralelo A,8,regular
+COH-INF-TEL-08-B,Inf. Telemática · 8.º sem. · paralelo B,8,regular
+COH-INF-TEL-08-C,Inf. Telemática · 8.º sem. · paralelo C,8,regular
+COH-INF-TEL-08-E-INF3752,Inf. Telemática · 8.º sem. · con electiva INF 3752,8,regular
+COH-INF-TEL-08-E-INF3772,Inf. Telemática · 8.º sem. · con electiva INF 3772,8,regular
+COH-INF-TEL-08-E-INF3911,Inf. Telemática · 8.º sem. · con electiva INF 3911,8,regular
+IRR-INF-TEL-08,Inf. Telemática · irregular 8.º–9.º sem.,8-9,irregular
+COH-INF-TEL-09-A,Inf. Telemática · 9.º sem. · paralelo A,9,regular
+COH-INF-TEL-09-C,Inf. Telemática · 9.º sem. · paralelo C,9,regular
+COH-INF-TEL-09-D,Inf. Telemática · 9.º sem. · paralelo D,9,regular
+IRR-INF-TEL-09,Inf. Telemática · irregular 9.º–10.º sem.,9-10,irregular
+IRR-INF-DSW-01,Inf. Desarrollo de Software · irregular 1.º–2.º sem.,1-2,irregular
+COH-INF-DSW-02-A,Inf. Desarrollo de Software · 2.º sem. · paralelo A,2,regular
+COH-INF-DSW-02-B,Inf. Desarrollo de Software · 2.º sem. · paralelo B,2,regular
+COH-INF-DSW-02-C,Inf. Desarrollo de Software · 2.º sem. · paralelo C,2,regular
+COH-INF-DSW-02-CH,Inf. Desarrollo de Software · 2.º sem. · paralelo CH,2,regular
+IRR-INF-DSW-02,Inf. Desarrollo de Software · irregular 2.º–3.º sem.,2-3,irregular
+COH-INF-DSW-03-A,Inf. Desarrollo de Software · 3.º sem. · paralelo A,3,regular
+COH-INF-DSW-03-B,Inf. Desarrollo de Software · 3.º sem. · paralelo B,3,regular
+COH-INF-DSW-03-C,Inf. Desarrollo de Software · 3.º sem. · paralelo C,3,regular
+COH-INF-DSW-03-CH,Inf. Desarrollo de Software · 3.º sem. · paralelo CH,3,regular
+IRR-INF-DSW-03,Inf. Desarrollo de Software · irregular 3.º–4.º sem.,3-4,irregular
+COH-INF-DSW-04-A,Inf. Desarrollo de Software · 4.º sem. · paralelo A,4,regular
+COH-INF-DSW-04-B,Inf. Desarrollo de Software · 4.º sem. · paralelo B,4,regular
+COH-INF-DSW-04-CH,Inf. Desarrollo de Software · 4.º sem. · paralelo CH,4,regular
+IRR-INF-DSW-04,Inf. Desarrollo de Software · irregular 4.º–5.º sem.,4-5,irregular
+COH-INF-DSW-05-A,Inf. Desarrollo de Software · 5.º sem. · paralelo A,5,regular
+COH-INF-DSW-05-B,Inf. Desarrollo de Software · 5.º sem. · paralelo B,5,regular
+COH-INF-DSW-05-C,Inf. Desarrollo de Software · 5.º sem. · paralelo C,5,regular
+COH-INF-DSW-05-CH,Inf. Desarrollo de Software · 5.º sem. · paralelo CH,5,regular
+IRR-INF-DSW-05,Inf. Desarrollo de Software · irregular 5.º–6.º sem.,5-6,irregular
+COH-INF-DSW-06-A,Inf. Desarrollo de Software · 6.º sem. · paralelo A,6,regular
+IRR-INF-DSW-06,Inf. Desarrollo de Software · irregular 6.º–7.º sem.,6-7,irregular
+COH-INF-DSW-07-A,Inf. Desarrollo de Software · 7.º sem. · paralelo A,7,regular
+COH-INF-DSW-07-E-INF3751,Inf. Desarrollo de Software · 7.º sem. · con electiva INF 3751,7,regular
+COH-INF-DSW-07-E-INF3781,Inf. Desarrollo de Software · 7.º sem. · con electiva INF 3781,7,regular
+COH-INF-DSW-07-E-SIS3701,Inf. Desarrollo de Software · 7.º sem. · con electiva SIS 3701,7,regular
+IRR-INF-DSW-07,Inf. Desarrollo de Software · irregular 7.º–8.º sem.,7-8,irregular
+COH-INF-DSW-08-A,Inf. Desarrollo de Software · 8.º sem. · paralelo A,8,regular
+COH-INF-DSW-08-B,Inf. Desarrollo de Software · 8.º sem. · paralelo B,8,regular
+COH-INF-DSW-08-C,Inf. Desarrollo de Software · 8.º sem. · paralelo C,8,regular
+COH-INF-DSW-08-E-INF3751,Inf. Desarrollo de Software · 8.º sem. · con electiva INF 3751,8,regular
+COH-INF-DSW-08-E-INF3781,Inf. Desarrollo de Software · 8.º sem. · con electiva INF 3781,8,regular
+COH-INF-DSW-08-E-SIS3701,Inf. Desarrollo de Software · 8.º sem. · con electiva SIS 3701,8,regular
+IRR-INF-DSW-08,Inf. Desarrollo de Software · irregular 8.º–9.º sem.,8-9,irregular
+COH-INF-DSW-09-A,Inf. Desarrollo de Software · 9.º sem. · paralelo A,9,regular
+COH-INF-DSW-09-C,Inf. Desarrollo de Software · 9.º sem. · paralelo C,9,regular
+COH-INF-DSW-09-D,Inf. Desarrollo de Software · 9.º sem. · paralelo D,9,regular
+IRR-INF-DSW-09,Inf. Desarrollo de Software · irregular 9.º–10.º sem.,9-10,irregular
+IRR-SIS-MOR-01,Sis. Modelamiento y Optimización · irregular 1.º–2.º sem.,1-2,irregular
+COH-SIS-MOR-02-A,Sis. Modelamiento y Optimización · 2.º sem. · paralelo A,2,regular
+COH-SIS-MOR-02-B,Sis. Modelamiento y Optimización · 2.º sem. · paralelo B,2,regular
+COH-SIS-MOR-02-C,Sis. Modelamiento y Optimización · 2.º sem. · paralelo C,2,regular
+COH-SIS-MOR-02-CH,Sis. Modelamiento y Optimización · 2.º sem. · paralelo CH,2,regular
+IRR-SIS-MOR-02,Sis. Modelamiento y Optimización · irregular 2.º–3.º sem.,2-3,irregular
+COH-SIS-MOR-03-A,Sis. Modelamiento y Optimización · 3.º sem. · paralelo A,3,regular
+COH-SIS-MOR-03-B,Sis. Modelamiento y Optimización · 3.º sem. · paralelo B,3,regular
+COH-SIS-MOR-03-C,Sis. Modelamiento y Optimización · 3.º sem. · paralelo C,3,regular
+COH-SIS-MOR-03-CH,Sis. Modelamiento y Optimización · 3.º sem. · paralelo CH,3,regular
+IRR-SIS-MOR-03,Sis. Modelamiento y Optimización · irregular 3.º–4.º sem.,3-4,irregular
+COH-SIS-MOR-04-A,Sis. Modelamiento y Optimización · 4.º sem. · paralelo A,4,regular
+COH-SIS-MOR-04-B,Sis. Modelamiento y Optimización · 4.º sem. · paralelo B,4,regular
+COH-SIS-MOR-04-CH,Sis. Modelamiento y Optimización · 4.º sem. · paralelo CH,4,regular
+IRR-SIS-MOR-04,Sis. Modelamiento y Optimización · irregular 4.º–5.º sem.,4-5,irregular
+COH-SIS-MOR-05-A,Sis. Modelamiento y Optimización · 5.º sem. · paralelo A,5,regular
+COH-SIS-MOR-05-B,Sis. Modelamiento y Optimización · 5.º sem. · paralelo B,5,regular
+COH-SIS-MOR-05-C,Sis. Modelamiento y Optimización · 5.º sem. · paralelo C,5,regular
+COH-SIS-MOR-05-CH,Sis. Modelamiento y Optimización · 5.º sem. · paralelo CH,5,regular
+IRR-SIS-MOR-05,Sis. Modelamiento y Optimización · irregular 5.º–6.º sem.,5-6,irregular
+COH-SIS-MOR-06-A,Sis. Modelamiento y Optimización · 6.º sem. · paralelo A,6,regular
+COH-SIS-MOR-06-B,Sis. Modelamiento y Optimización · 6.º sem. · paralelo B,6,regular
+COH-SIS-MOR-06-C,Sis. Modelamiento y Optimización · 6.º sem. · paralelo C,6,regular
+COH-SIS-MOR-06-D,Sis. Modelamiento y Optimización · 6.º sem. · paralelo D,6,regular
+COH-SIS-MOR-06-CH,Sis. Modelamiento y Optimización · 6.º sem. · paralelo CH,6,regular
+COH-SIS-MOR-06-E-INF3731,Sis. Modelamiento y Optimización · 6.º sem. · con electiva INF 3731,6,regular
+COH-SIS-MOR-06-E-INF3751,Sis. Modelamiento y Optimización · 6.º sem. · con electiva INF 3751,6,regular
+COH-SIS-MOR-06-E-SIS3701,Sis. Modelamiento y Optimización · 6.º sem. · con electiva SIS 3701,6,regular
+COH-SIS-MOR-06-E-SIS3732,Sis. Modelamiento y Optimización · 6.º sem. · con electiva SIS 3732,6,regular
+IRR-SIS-MOR-06,Sis. Modelamiento y Optimización · irregular 6.º–7.º sem.,6-7,irregular
+COH-SIS-MOR-07-A,Sis. Modelamiento y Optimización · 7.º sem. · paralelo A,7,regular
+IRR-SIS-MOR-07,Sis. Modelamiento y Optimización · irregular 7.º–8.º sem.,7-8,irregular
+COH-SIS-MOR-08-A,Sis. Modelamiento y Optimización · 8.º sem. · paralelo A,8,regular
+COH-SIS-MOR-08-B,Sis. Modelamiento y Optimización · 8.º sem. · paralelo B,8,regular
+COH-SIS-MOR-08-C,Sis. Modelamiento y Optimización · 8.º sem. · paralelo C,8,regular
+COH-SIS-MOR-08-E-INF3731,Sis. Modelamiento y Optimización · 8.º sem. · con electiva INF 3731,8,regular
+COH-SIS-MOR-08-E-INF3751,Sis. Modelamiento y Optimización · 8.º sem. · con electiva INF 3751,8,regular
+COH-SIS-MOR-08-E-SIS3701,Sis. Modelamiento y Optimización · 8.º sem. · con electiva SIS 3701,8,regular
+COH-SIS-MOR-08-E-SIS3732,Sis. Modelamiento y Optimización · 8.º sem. · con electiva SIS 3732,8,regular
+IRR-SIS-MOR-08,Sis. Modelamiento y Optimización · irregular 8.º–9.º sem.,8-9,irregular
+COH-SIS-MOR-09-A,Sis. Modelamiento y Optimización · 9.º sem. · paralelo A,9,regular
+COH-SIS-MOR-09-C,Sis. Modelamiento y Optimización · 9.º sem. · paralelo C,9,regular
+COH-SIS-MOR-09-D,Sis. Modelamiento y Optimización · 9.º sem. · paralelo D,9,regular
+IRR-SIS-MOR-09,Sis. Modelamiento y Optimización · irregular 9.º–10.º sem.,9-10,irregular
+IRR-SIS-GIN-01,Sis. Gestión de la Información · irregular 1.º–2.º sem.,1-2,irregular
+COH-SIS-GIN-02-A,Sis. Gestión de la Información · 2.º sem. · paralelo A,2,regular
+COH-SIS-GIN-02-B,Sis. Gestión de la Información · 2.º sem. · paralelo B,2,regular
+COH-SIS-GIN-02-C,Sis. Gestión de la Información · 2.º sem. · paralelo C,2,regular
+COH-SIS-GIN-02-CH,Sis. Gestión de la Información · 2.º sem. · paralelo CH,2,regular
+IRR-SIS-GIN-02,Sis. Gestión de la Información · irregular 2.º–3.º sem.,2-3,irregular
+COH-SIS-GIN-03-A,Sis. Gestión de la Información · 3.º sem. · paralelo A,3,regular
+COH-SIS-GIN-03-B,Sis. Gestión de la Información · 3.º sem. · paralelo B,3,regular
+COH-SIS-GIN-03-C,Sis. Gestión de la Información · 3.º sem. · paralelo C,3,regular
+COH-SIS-GIN-03-CH,Sis. Gestión de la Información · 3.º sem. · paralelo CH,3,regular
+IRR-SIS-GIN-03,Sis. Gestión de la Información · irregular 3.º–4.º sem.,3-4,irregular
+COH-SIS-GIN-04-A,Sis. Gestión de la Información · 4.º sem. · paralelo A,4,regular
+COH-SIS-GIN-04-B,Sis. Gestión de la Información · 4.º sem. · paralelo B,4,regular
+COH-SIS-GIN-04-CH,Sis. Gestión de la Información · 4.º sem. · paralelo CH,4,regular
+IRR-SIS-GIN-04,Sis. Gestión de la Información · irregular 4.º–5.º sem.,4-5,irregular
+COH-SIS-GIN-05-A,Sis. Gestión de la Información · 5.º sem. · paralelo A,5,regular
+COH-SIS-GIN-05-B,Sis. Gestión de la Información · 5.º sem. · paralelo B,5,regular
+COH-SIS-GIN-05-C,Sis. Gestión de la Información · 5.º sem. · paralelo C,5,regular
+COH-SIS-GIN-05-CH,Sis. Gestión de la Información · 5.º sem. · paralelo CH,5,regular
+IRR-SIS-GIN-05,Sis. Gestión de la Información · irregular 5.º–6.º sem.,5-6,irregular
+COH-SIS-GIN-06-A,Sis. Gestión de la Información · 6.º sem. · paralelo A,6,regular
+COH-SIS-GIN-06-B,Sis. Gestión de la Información · 6.º sem. · paralelo B,6,regular
+COH-SIS-GIN-06-C,Sis. Gestión de la Información · 6.º sem. · paralelo C,6,regular
+COH-SIS-GIN-06-D,Sis. Gestión de la Información · 6.º sem. · paralelo D,6,regular
+COH-SIS-GIN-06-CH,Sis. Gestión de la Información · 6.º sem. · paralelo CH,6,regular
+IRR-SIS-GIN-06,Sis. Gestión de la Información · irregular 6.º–7.º sem.,6-7,irregular
+COH-SIS-GIN-07-A,Sis. Gestión de la Información · 7.º sem. · paralelo A,7,regular
+COH-SIS-GIN-07-E-INF2710,Sis. Gestión de la Información · 7.º sem. · con electiva INF 2710,7,regular
+COH-SIS-GIN-07-E-INF3731,Sis. Gestión de la Información · 7.º sem. · con electiva INF 3731,7,regular
+COH-SIS-GIN-07-E-INF3911,Sis. Gestión de la Información · 7.º sem. · con electiva INF 3911,7,regular
+COH-SIS-GIN-07-E-SIS3701,Sis. Gestión de la Información · 7.º sem. · con electiva SIS 3701,7,regular
+IRR-SIS-GIN-07,Sis. Gestión de la Información · irregular 7.º–8.º sem.,7-8,irregular
+COH-SIS-GIN-08-A,Sis. Gestión de la Información · 8.º sem. · paralelo A,8,regular
+COH-SIS-GIN-08-B,Sis. Gestión de la Información · 8.º sem. · paralelo B,8,regular
+COH-SIS-GIN-08-C,Sis. Gestión de la Información · 8.º sem. · paralelo C,8,regular
+COH-SIS-GIN-08-E-INF2710,Sis. Gestión de la Información · 8.º sem. · con electiva INF 2710,8,regular
+COH-SIS-GIN-08-E-INF3731,Sis. Gestión de la Información · 8.º sem. · con electiva INF 3731,8,regular
+COH-SIS-GIN-08-E-INF3911,Sis. Gestión de la Información · 8.º sem. · con electiva INF 3911,8,regular
+COH-SIS-GIN-08-E-SIS3701,Sis. Gestión de la Información · 8.º sem. · con electiva SIS 3701,8,regular
+IRR-SIS-GIN-08,Sis. Gestión de la Información · irregular 8.º–9.º sem.,8-9,irregular
+COH-SIS-GIN-09-A,Sis. Gestión de la Información · 9.º sem. · paralelo A,9,regular
+COH-SIS-GIN-09-C,Sis. Gestión de la Información · 9.º sem. · paralelo C,9,regular
+COH-SIS-GIN-09-D,Sis. Gestión de la Información · 9.º sem. · paralelo D,9,regular
+IRR-SIS-GIN-09,Sis. Gestión de la Información · irregular 9.º–10.º sem.,9-10,irregular
+IRR-SIS-DGE-01,Sis. Dirección y Gestión Empresarial · irregular 1.º–2.º sem.,1-2,irregular
+COH-SIS-DGE-02-A,Sis. Dirección y Gestión Empresarial · 2.º sem. · paralelo A,2,regular
+COH-SIS-DGE-02-B,Sis. Dirección y Gestión Empresarial · 2.º sem. · paralelo B,2,regular
+COH-SIS-DGE-02-C,Sis. Dirección y Gestión Empresarial · 2.º sem. · paralelo C,2,regular
+COH-SIS-DGE-02-CH,Sis. Dirección y Gestión Empresarial · 2.º sem. · paralelo CH,2,regular
+IRR-SIS-DGE-02,Sis. Dirección y Gestión Empresarial · irregular 2.º–3.º sem.,2-3,irregular
+COH-SIS-DGE-03-A,Sis. Dirección y Gestión Empresarial · 3.º sem. · paralelo A,3,regular
+COH-SIS-DGE-03-B,Sis. Dirección y Gestión Empresarial · 3.º sem. · paralelo B,3,regular
+COH-SIS-DGE-03-C,Sis. Dirección y Gestión Empresarial · 3.º sem. · paralelo C,3,regular
+COH-SIS-DGE-03-CH,Sis. Dirección y Gestión Empresarial · 3.º sem. · paralelo CH,3,regular
+IRR-SIS-DGE-03,Sis. Dirección y Gestión Empresarial · irregular 3.º–4.º sem.,3-4,irregular
+COH-SIS-DGE-04-A,Sis. Dirección y Gestión Empresarial · 4.º sem. · paralelo A,4,regular
+COH-SIS-DGE-04-B,Sis. Dirección y Gestión Empresarial · 4.º sem. · paralelo B,4,regular
+COH-SIS-DGE-04-CH,Sis. Dirección y Gestión Empresarial · 4.º sem. · paralelo CH,4,regular
+IRR-SIS-DGE-04,Sis. Dirección y Gestión Empresarial · irregular 4.º–5.º sem.,4-5,irregular
+COH-SIS-DGE-05-A,Sis. Dirección y Gestión Empresarial · 5.º sem. · paralelo A,5,regular
+COH-SIS-DGE-05-B,Sis. Dirección y Gestión Empresarial · 5.º sem. · paralelo B,5,regular
+COH-SIS-DGE-05-C,Sis. Dirección y Gestión Empresarial · 5.º sem. · paralelo C,5,regular
+COH-SIS-DGE-05-CH,Sis. Dirección y Gestión Empresarial · 5.º sem. · paralelo CH,5,regular
+IRR-SIS-DGE-05,Sis. Dirección y Gestión Empresarial · irregular 5.º–6.º sem.,5-6,irregular
+COH-SIS-DGE-06-A,Sis. Dirección y Gestión Empresarial · 6.º sem. · paralelo A,6,regular
+COH-SIS-DGE-06-B,Sis. Dirección y Gestión Empresarial · 6.º sem. · paralelo B,6,regular
+COH-SIS-DGE-06-C,Sis. Dirección y Gestión Empresarial · 6.º sem. · paralelo C,6,regular
+COH-SIS-DGE-06-D,Sis. Dirección y Gestión Empresarial · 6.º sem. · paralelo D,6,regular
+COH-SIS-DGE-06-CH,Sis. Dirección y Gestión Empresarial · 6.º sem. · paralelo CH,6,regular
+IRR-SIS-DGE-06,Sis. Dirección y Gestión Empresarial · irregular 6.º–7.º sem.,6-7,irregular
+COH-SIS-DGE-07-A,Sis. Dirección y Gestión Empresarial · 7.º sem. · paralelo A,7,regular
+COH-SIS-DGE-07-E-SIS3701,Sis. Dirección y Gestión Empresarial · 7.º sem. · con electiva SIS 3701,7,regular
+COH-SIS-DGE-07-E-SIS3702,Sis. Dirección y Gestión Empresarial · 7.º sem. · con electiva SIS 3702,7,regular
+COH-SIS-DGE-07-E-SIS3732,Sis. Dirección y Gestión Empresarial · 7.º sem. · con electiva SIS 3732,7,regular
+IRR-SIS-DGE-07,Sis. Dirección y Gestión Empresarial · irregular 7.º–8.º sem.,7-8,irregular
+COH-SIS-DGE-08-A,Sis. Dirección y Gestión Empresarial · 8.º sem. · paralelo A,8,regular
+COH-SIS-DGE-08-B,Sis. Dirección y Gestión Empresarial · 8.º sem. · paralelo B,8,regular
+COH-SIS-DGE-08-C,Sis. Dirección y Gestión Empresarial · 8.º sem. · paralelo C,8,regular
+COH-SIS-DGE-08-E-SIS3701,Sis. Dirección y Gestión Empresarial · 8.º sem. · con electiva SIS 3701,8,regular
+COH-SIS-DGE-08-E-SIS3702,Sis. Dirección y Gestión Empresarial · 8.º sem. · con electiva SIS 3702,8,regular
+COH-SIS-DGE-08-E-SIS3732,Sis. Dirección y Gestión Empresarial · 8.º sem. · con electiva SIS 3732,8,regular
+IRR-SIS-DGE-08,Sis. Dirección y Gestión Empresarial · irregular 8.º–9.º sem.,8-9,irregular
+COH-SIS-DGE-09-A,Sis. Dirección y Gestión Empresarial · 9.º sem. · paralelo A,9,regular
+COH-SIS-DGE-09-C,Sis. Dirección y Gestión Empresarial · 9.º sem. · paralelo C,9,regular
+COH-SIS-DGE-09-D,Sis. Dirección y Gestión Empresarial · 9.º sem. · paralelo D,9,regular
+IRR-SIS-DGE-09,Sis. Dirección y Gestión Empresarial · irregular 9.º–10.º sem.,9-10,irregular

@@ -1,0 +1,59 @@
+{
+  "sesiones": 369,
+  "paralelos": 113,
+  "docentes": 42,
+  "cohortes_regulares": 161,
+  "cohortes_irregulares": 45,
+  "resumen": [
+    {
+      "Configuración": "A · AG aleatorio",
+      "Horarios sin conflictos obligatorios": "5/5",
+      "Conflictos oblig. (media)": 0.0,
+      "Penalización blanda (media)": 60.92,
+      "Penalización blanda (desv.)": 5.83,
+      "Tiempo medio (s)": 47.0
+    },
+    {
+      "Configuración": "B · sólo heurística",
+      "Horarios sin conflictos obligatorios": "5/5",
+      "Conflictos oblig. (media)": 0.0,
+      "Penalización blanda (media)": 45.14,
+      "Penalización blanda (desv.)": 2.91,
+      "Tiempo medio (s)": NaN
+    },
+    {
+      "Configuración": "C · heurística + AG",
+      "Horarios sin conflictos obligatorios": "5/5",
+      "Conflictos oblig. (media)": 0.0,
+      "Penalización blanda (media)": 18.41,
+      "Penalización blanda (desv.)": 2.51,
+      "Tiempo medio (s)": 48.7
+    }
+  ],
+  "detalle_blando_semilla1": {
+    "B": {
+      "relajadas": 0.0,
+      "no_obligatorio": 0.0,
+      "disp_estudiante": 0.0,
+      "irregulares": 2.0,
+      "cambios": 0.0,
+      "huecos": 3.2,
+      "franja": 36.0,
+      "sabado": 0.0,
+      "carga_diaria": 0.06,
+      "mismo_dia": 0.0
+    },
+    "C": {
+      "relajadas": 0.0,
+      "no_obligatorio": 0.0,
+      "disp_estudiante": 0.0,
+      "irregulares": 6.0,
+      "cambios": 0.0,
+      "huecos": 2.32,
+      "franja": 6.0,
+      "sabado": 0.0,
+      "carga_diaria": 0.06,
+      "mismo_dia": 0.0
+    }
+  }
+}

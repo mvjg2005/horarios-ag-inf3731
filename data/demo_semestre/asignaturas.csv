@@ -1,0 +1,10 @@
+clave,codigo,nombre,semestre,horas_teoria,horas_laboratorio,horas_auxiliatura
+M81,SIM-M81,Materia 8.1 (sim.),8,3,1.5,1.5
+M82,SIM-M82,Materia 8.2 (sim.),8,3,1.5,1.5
+M83,SIM-M83,Materia 8.3 (sim.),8,3,0.0,1.5
+M84,SIM-M84,Materia 8.4 (sim.),8,3,1.5,1.5
+M85,SIM-M85,Materia 8.5 (sim.),8,3,0.0,1.5
+M91,SIM-M91,Materia 9.1 (sim.),9,3,1.5,1.5
+M92,SIM-M92,Materia 9.2 (sim.),9,3,0.0,1.5
+M93,SIM-M93,Materia 9.3 (sim.),9,3,1.5,1.5
+M94,SIM-M94,Materia 9.4 (sim.),9,3,0.0,1.5

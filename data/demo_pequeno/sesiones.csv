@@ -1,0 +1,8 @@
+id,asignatura,tipo,paralelo,dia,inicio,fin,responsable,ambiente,duracion_requerida_min,fija,obligatoria,estado,reemplaza,origen,dias_permitidos,tipo_ambiente,observacion
+TEO-BD-A,BD,teoria,A,Lunes,08:00,09:30,D1,A1,,si,si,vigente,,oficial,,,
+TEO-RED-B,RED,teoria,B,Lunes,08:00,09:30,D2,A2,,si,si,vigente,,oficial,,,
+TEO-PRG-A,PRG,teoria,A,Martes,08:00,09:30,D2,A1,,si,si,vigente,,oficial,,,
+LAB-BD-A,BD,laboratorio,A,Lunes,08:00,09:30,D1,LAB1,,no,si,vigente,,simulado,,,
+LAB-RED-B,RED,laboratorio,B,Lunes,08:30,10:00,D2,LAB1,,no,si,vigente,,simulado,,,
+AUX-PRG-A,PRG,auxiliatura,A,Martes,08:00,09:30,X1,A2,,no,si,vigente,,simulado,,,
+AUX-RED-B,RED,auxiliatura,B,Martes,08:30,10:00,X1,A2,,no,si,vigente,,simulado,,,

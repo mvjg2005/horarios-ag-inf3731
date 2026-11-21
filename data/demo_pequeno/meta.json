@@ -1,0 +1,15 @@
+{
+  "nombre": "Demo pequeño (solución conocida)",
+  "tipo_datos": "simulado",
+  "descripcion": "Datos SIMULADOS de verificación: 7 sesiones (3 fijas, 4 reprogramables) y 8 estudiantes. E7 es irregular: cursa Programación (A) y Redes (B). Existe al menos una solución sin conflictos obligatorios.",
+  "dias": [
+    "Lunes",
+    "Martes",
+    "Miércoles"
+  ],
+  "hora_inicio": "08:00",
+  "hora_fin": "12:00",
+  "resolucion": 30,
+  "pendientes": [],
+  "modo": "reprogramacion"
+}

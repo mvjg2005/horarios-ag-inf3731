@@ -1,0 +1,32 @@
+{
+  "nombre": "Carrera – planificación gestión 2026/2",
+  "tipo_datos": "real",
+  "descripcion": "Oferta SIS/INF de Ingeniería de Sistemas e Informática (5 menciones) construida con los planes de estudio oficiales y el plantel docente publicado. El algoritmo genera el horario completo evitando choques entre materias del mismo semestre de cada mención y de cada docente.",
+  "dias": [
+    "Lunes",
+    "Martes",
+    "Miércoles",
+    "Jueves",
+    "Viernes",
+    "Sábado"
+  ],
+  "hora_inicio": "07:00",
+  "hora_fin": "21:00",
+  "resolucion": 45,
+  "pendientes": [
+    "Fuente de materias y paralelos: plantel docente publicado en sisinf.fni.uto.edu.bo/docentes (consultado el 20/11/2026). Fuente de horas y semestres: planes de estudio oficiales de las 5 menciones.",
+    "Horario inicial: SIN ASIGNAR. El algoritmo genético genera la propuesta completa (modo planificación).",
+    "Duración de una hora académica: 45 min (SUPUESTO, confirmar). Sesiones de 90 min.",
+    "Auxiliares y responsables de laboratorio: no publicados; esas sesiones no tienen responsable.",
+    "Aulas, laboratorios y capacidades: no publicados; no se asignan ambientes.",
+    "Disponibilidad de docentes: no publicada; cada docente puede registrarla con su rol.",
+    "Inscripciones reales: no disponibles; se usan cohortes curriculares (estudiantes tipo) por mención, semestre y paralelo.",
+    "Materias de otros departamentos (MAT, FIS, QMC, IND, ELT...): no incluidas; su horario es externo.",
+    "Franja 07:00–21:00, lunes a sábado (SUPUESTO); se penaliza programar en sábado.",
+    "Villalobos Sandy Edwin: Metodología de la Programación I SIS 1110 publicado sin paralelo; no se programa.",
+    "Análisis Discreto SIS 1210 CH (Guzmán Coronel Roly Gonzalo): la sigla no figura en los planes; se usó INF 1210 por coincidir el nombre de la materia. Confirmar.",
+    "Programación Gráfica SIS 3430 CH (Tarque Ortega Fernando Edwin): la sigla no figura en los planes; se usó SIS 2430 por coincidir el nombre de la materia. Confirmar.",
+    "Materias SIS/INF de los planes sin docente publicado en la gestión (no se programan): 10 (INF 3711, INF 3761, INF 3762, INF 3771, INF 3811, INF 3912, SIS 3703, SIS 3712, SIS 3722, SIS 3731)."
+  ],
+  "modo": "planificacion"
+}

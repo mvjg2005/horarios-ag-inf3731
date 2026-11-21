@@ -1,0 +1,18 @@
+{
+  "nombre": "Demo semestre (mediano)",
+  "tipo_datos": "simulado",
+  "descripcion": "Datos SIMULADOS: 9 asignaturas de 8.º y 9.º semestre, paralelos A/B, 86 estudiantes con inscripciones individuales (regulares, que omiten alguna materia, e irregulares que mezclan semestres y paralelos), docentes compartidos, auxiliares con disponibilidad limitada, ambientes con capacidad y laboratorios concentrados deliberadamente en pocas franjas.",
+  "dias": [
+    "Lunes",
+    "Martes",
+    "Miércoles",
+    "Jueves",
+    "Viernes",
+    "Sábado"
+  ],
+  "hora_inicio": "07:00",
+  "hora_fin": "21:00",
+  "resolucion": 30,
+  "pendientes": [],
+  "modo": "reprogramacion"
+}

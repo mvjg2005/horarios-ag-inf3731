@@ -1,0 +1,15 @@
+{
+  "nombre": "Demo infactible",
+  "tipo_datos": "simulado",
+  "descripcion": "Datos SIMULADOS: la teórica FIJA de Programación (A) se movió al lunes 08:30, encima de la teórica FIJA de Base de Datos (A), que cursan los mismos estudiantes. Ningún horario puede eliminar ese conflicto sin modificar actividades fijas.",
+  "dias": [
+    "Lunes",
+    "Martes",
+    "Miércoles"
+  ],
+  "hora_inicio": "08:00",
+  "hora_fin": "12:00",
+  "resolucion": 30,
+  "pendientes": [],
+  "modo": "reprogramacion"
+}

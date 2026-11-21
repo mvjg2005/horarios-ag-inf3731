@@ -1,0 +1,170 @@
+{
+  "fecha": "2026-11-20T21:19:44",
+  "python": "3.13.18",
+  "semillas": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "experimentos": {
+    "E1_real_original": {
+      "indicadores": {
+        "Conflictos obligatorios antes": 6,
+        "Conflictos obligatorios después": 0,
+        "Reducción (%)": 100.0,
+        "Coincidencias no obligatorias después": 0,
+        "Mejor fitness": 0.222222,
+        "Penalización blanda": 3.5,
+        "Generaciones": 195,
+        "Gen. primera solución válida": 1,
+        "Tiempo (s)": 0.29,
+        "Sesiones movidas": 3,
+        "Categorías obligatorias satisfechas": "8/8",
+        "Restricciones pendientes": 0,
+        "Horario válido": "Sí",
+        "Motivo de parada": "Estancamiento: 80 generaciones sin mejora."
+      },
+      "cambios": [
+        {
+          "Sesión": "AUX-GPRO",
+          "Actividad": "Auxiliatura – Gestión de Proyectos (A)",
+          "Original": "Miércoles 16:30–18:00",
+          "Propuesta": "Miércoles 15:00–16:30"
+        },
+        {
+          "Sesión": "LAB-AUD",
+          "Actividad": "Laboratorio – Auditoría de Sistemas (A)",
+          "Original": "Miércoles 16:30–18:00",
+          "Propuesta": "Miércoles 12:00–13:30"
+        },
+        {
+          "Sesión": "LAB-IA-ORIG",
+          "Actividad": "Laboratorio – Inteligencia Artificial (A)",
+          "Original": "Miércoles 16:30–18:00",
+          "Propuesta": "Miércoles 13:30–15:00"
+        }
+      ],
+      "pendientes": []
+    },
+    "E1_real_reprogramado": {
+      "indicadores": {
+        "Conflictos obligatorios antes": 3,
+        "Conflictos obligatorios después": 0,
+        "Reducción (%)": 100.0,
+        "Coincidencias no obligatorias después": 0,
+        "Mejor fitness": 0.217391,
+        "Penalización blanda": 3.6,
+        "Generaciones": 175,
+        "Gen. primera solución válida": 1,
+        "Tiempo (s)": 0.3,
+        "Sesiones movidas": 2,
+        "Categorías obligatorias satisfechas": "8/8",
+        "Restricciones pendientes": 1,
+        "Horario válido": "Sí",
+        "Motivo de parada": "Estancamiento: 80 generaciones sin mejora."
+      },
+      "cambios": [
+        {
+          "Sesión": "AUX-GPRO",
+          "Actividad": "Auxiliatura – Gestión de Proyectos (A)",
+          "Original": "Miércoles 16:30–18:00",
+          "Propuesta": "Miércoles 13:30–15:00"
+        },
+        {
+          "Sesión": "LAB-AUD",
+          "Actividad": "Laboratorio – Auditoría de Sistemas (A)",
+          "Original": "Miércoles 16:30–18:00",
+          "Propuesta": "Miércoles 15:00–16:30"
+        }
+      ],
+      "pendientes": [
+        "[Por confirmar] Laboratorio – Inteligencia Artificial (A): dura 30 min y se requieren 90 min (dato pendiente de confirmación)"
+      ]
+    },
+    "E2_demo_pequeno": {
+      "validos": "5/5",
+      "duros_antes": 12,
+      "duros_despues": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mensaje": "Se obtuvo un horario SIN conflictos obligatorios para los datos y restricciones configurados (penalización por preferencias: 9.00).",
+      "diagnostico": []
+    },
+    "E2_demo_infactible": {
+      "validos": "0/5",
+      "duros_antes": 17,
+      "duros_despues": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "mensaje": "NO se encontró un horario válido: persisten 4 conflicto(s) obligatorio(s). Revise las restricciones pendientes.",
+      "diagnostico": [
+        "[Estudiantes inscritos] Clase teórica – Base de Datos (sim.) (A) se superpone con Clase teórica – Programación (sim.) (A) (Lunes 08:30–09:30) – afecta a Estudiante 1 (sim.), Estudiante 2 (sim.), Estudiante 3 (sim.) — involucra sólo actividades fijas o no incluidas en la optimización.",
+        "[Estudiantes inscritos] Clase teórica – Redes (sim.) (B) se superpone con Clase teórica – Programación (sim.) (A) (Lunes 08:30–09:30) – afecta a Estudiante 7 (sim.) — involucra sólo actividades fijas o no incluidas en la optimización.",
+        "[Docente] Clase teórica – Redes (sim.) (B) se superpone con Clase teórica – Programación (sim.) (A) (Lunes 08:30–09:30) — involucra sólo actividades fijas o no incluidas en la optimización.",
+        "[Capacidad del ambiente] Clase teórica – Programación (sim.) (A): 4 inscritos y Aula 3 pequeña (sim.) admite 3 — involucra sólo actividades fijas o no incluidas en la optimización."
+      ]
+    },
+    "E3_semestre": {
+      "resumen": [
+        {
+          "Configuración": "C1 · base",
+          "Ejecuciones": 5,
+          "Horarios válidos": "5/5",
+          "Conflictos oblig. (media)": 0,
+          "Penalización blanda (media)": 75.74,
+          "Penalización blanda (desv.)": 3.16,
+          "Mejor fitness (máx.)": 0.013743,
+          "Generaciones (media)": 300.0,
+          "Gen. 1ª sol. válida (media)": 1.0,
+          "Tiempo s (media)": 5.79
+        },
+        {
+          "Configuración": "C2 · con mutación dirigida",
+          "Ejecuciones": 5,
+          "Horarios válidos": "5/5",
+          "Conflictos oblig. (media)": 0,
+          "Penalización blanda (media)": 111.04,
+          "Penalización blanda (desv.)": 2.31,
+          "Mejor fitness (máx.)": 0.009113,
+          "Generaciones (media)": 113.0,
+          "Gen. 1ª sol. válida (media)": 1.0,
+          "Tiempo s (media)": 2.58
+        },
+        {
+          "Configuración": "C3 · población pequeña (30)",
+          "Ejecuciones": 5,
+          "Horarios válidos": "5/5",
+          "Conflictos oblig. (media)": 0,
+          "Penalización blanda (media)": 82.02,
+          "Penalización blanda (desv.)": 4.02,
+          "Mejor fitness (máx.)": 0.012684,
+          "Generaciones (media)": 300.0,
+          "Gen. 1ª sol. válida (media)": 1.2,
+          "Tiempo s (media)": 2.03
+        },
+        {
+          "Configuración": "C4 · cruce un punto, Pm alta",
+          "Ejecuciones": 5,
+          "Horarios válidos": "5/5",
+          "Conflictos oblig. (media)": 0,
+          "Penalización blanda (media)": 102.75,
+          "Penalización blanda (desv.)": 6.69,
+          "Mejor fitness (máx.)": 0.010797,
+          "Generaciones (media)": 239.2,
+          "Gen. 1ª sol. válida (media)": 1.0,
+          "Tiempo s (media)": 5.06
+        }
+      ]
+    }
+  }
+}
